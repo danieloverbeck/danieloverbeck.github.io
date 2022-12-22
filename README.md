@@ -32,10 +32,6 @@ My main research interests are in Development Economics and Public Economics.
     
   (with <a Eliya Lungu </a>)</summary>
   
-  | **Abstract**          |
-  |:---------------------------|
-  | We study how systematic monetary policy shapes the effects of fiscal spending shocks in the U.S. To identify the effects of systematic monetary policy, we use a novel identification design, which combines a narrative account of the FOMC members' policy preferences with an instrument that exploits the mechanical rotation of voting rights in the FOMC. We find that the GDP response to fiscal spending shocks strongly depends on systematic monetary policy. The fiscal spending multiplier is substantially above one if the FOMC is dovish, whereas the multiplier is indistinguishable from zero under a hawkish FOMC. |
-  
  </details>
  
 <!--
