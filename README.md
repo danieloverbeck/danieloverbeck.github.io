@@ -6,10 +6,24 @@
 ### Welcome!
 
 I am a PhD student in Economics at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. \
-My main research interests are Development Economics and Public Economics.
+My main research interests are in Development Economics and Public Economics.
 
 ### <a href="https://danieloverbeck.github.io/OverbeckCVDec22.pdf" target="_blank">Curriculum Vitae</a>
 
+
+<font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>  
+### Working Paper:
+<details>
+  <summary markdown="span"><font color="blue">Place-based policies and structural change: Evidence from India's Special Economic Zones</font>
+    
+  (with <a href="https://www2.wiwi.rub.de/en/persons/johannes-galle/" target="_blank"> Johannes Gall\'{e}</a> ,  <a href="https://sites.google.com/view/riedeleconomics/welcome" target="_blank">Nadine Riedel and <a href="https://sites.google.com/site/tobiasseideluni/home-1" target="_blank">Tobias Seidel</a>)</summary>
+  
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | This paper quantifies the local economic impact of 147 Special Economic Zones (SEZs) that were established in India between 2005-2013. Combining census data on the universe of Indian firms with georeferenced data on SEZs, we find that SEZs increased manufacturing and service employment with little indication for spatial relocation. This employment gain was paralleled by a decline in local agricultural employment suggesting structural change. Female workers experienced weaker employment gains and we find no indication for systematic improvements in local public good provision. Employment gains are remarkably similar across privately and publicly run zones and zones with different industry denomination. |
+  
+  
 <font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>  
 ### Work in progress:
 <details>
@@ -28,8 +42,9 @@ My main research interests are Development Economics and Public Economics.
 ----
 
 <br>
- 
-### Publications:
+
+<font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font> 
+### Working Paper:
 
 <details>
   <summary markdown="span"><font color="blue">Some paper</font>
