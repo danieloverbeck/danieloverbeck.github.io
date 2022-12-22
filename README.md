@@ -16,7 +16,7 @@ My main research interests are in Development Economics and Public Economics.
 <details>
   <summary markdown="span"><font color="blue">Place-based policies and structural change: Evidence from India's Special Economic Zones</font>
     
-  (with <a href="https://www2.wiwi.rub.de/en/persons/johannes-galle/" target="_blank"> Johannes Gall\'{e}</a> ,  <a href="https://sites.google.com/view/riedeleconomics/welcome" target="_blank">Nadine Riedel and <a href="https://sites.google.com/site/tobiasseideluni/home-1" target="_blank">Tobias Seidel</a>)</summary>
+  (with <a href="https://www2.wiwi.rub.de/en/persons/johannes-galle/" target="_blank"> Johannes Gall\´{e}</a> ,  <a href="https://sites.google.com/view/riedeleconomics/welcome" target="_blank">Nadine Riedel</a> and <a href="https://sites.google.com/site/tobiasseideluni/home-1" target="_blank">Tobias Seidel</a>)</summary>
   
   
   | **Abstract**          |
