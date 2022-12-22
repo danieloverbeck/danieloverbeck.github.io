@@ -31,9 +31,9 @@ My main research interests are in Development Economics and Public Economics.
 <font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>  
 ### Work in progress:
 <details>
-  <summary markdown="span"><font color="blue">Systematic Monetary Policy and the Effects of Government Spending</font>
+  <summary markdown="span"><font color="blue">Turnover Taxation in Zambia</font>
     
-  (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>)</summary>
+  (with <a Eliya Lungu </a>)</summary>
   
   | **Abstract**          |
   |:---------------------------|
