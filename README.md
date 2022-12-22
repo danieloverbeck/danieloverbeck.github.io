@@ -23,9 +23,8 @@ My main research interests are in Development Economics and Public Economics.
   |:---------------------------|
   | This paper quantifies the local economic impact of 147 Special Economic Zones (SEZs) that were established in India between 2005-2013. Combining census data on the universe of Indian firms with georeferenced data on SEZs, we find that SEZs increased manufacturing and service employment with little indication for spatial relocation. This employment gain was paralleled by a decline in local agricultural employment suggesting structural change. Female workers experienced weaker employment gains and we find no indication for systematic improvements in local public good provision. Employment gains are remarkably similar across privately and publicly run zones and zones with different industry denomination. |
  
-     </details>
-     <a href="danieloverbeck.github.io/WP040 GalleOverbeckRiedelSeidel PlaceBasedPoliciesAndStructuralChange.pdf" target="_blank">[STEG/CEPR Working Paper] </a> 
- <br />
+  </details>
+ <a href="danieloverbeck.github.io/WP040 GalleOverbeckRiedelSeidel PlaceBasedPoliciesAndStructuralChange.pdf" target="_blank">[STEG/CEPR Working Paper] </a> 
     
   
   
