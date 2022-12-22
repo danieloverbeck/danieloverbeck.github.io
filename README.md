@@ -5,10 +5,10 @@
 
 ### Welcome!
 
-I am a PhD student at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. \
-My main research fields are macroeconomics and public economics.
+I am a PhD student in Economics at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. \
+My main research interests are Development Economics and Public Economics.
 
-### <a href="https://lukas-hack.github.io/Hack_CV.pdf" target="_blank">Curriculum Vitae</a>
+### <a href="https://danieloverbeck.github.io/OverbeckCVDec22.pdf" target="_blank">Curriculum Vitae</a>
 
 <font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>  
 ### Work in progress:
