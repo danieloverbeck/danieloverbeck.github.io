@@ -1,1 +1,0 @@
-sitemap: http://www.meinedomain.de/sitemap.xml
