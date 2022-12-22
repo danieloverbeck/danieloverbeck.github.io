@@ -30,7 +30,7 @@ My main research interests are in Development Economics and Public Economics.
 <details>
   <summary markdown="span"><font color="blue">Turnover Taxation in Zambia</font>
     
-  (with <a Eliya Lungu </a>)</summary>
+  (with Eliya Lungu)</summary>
   
  </details>
  
