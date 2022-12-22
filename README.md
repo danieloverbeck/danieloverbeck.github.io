@@ -11,7 +11,6 @@ My main research interests are in Development Economics and Public Economics.
 ### <a href="https://danieloverbeck.github.io/OverbeckCVDec22.pdf" target="_blank">Curriculum Vitae</a>
 
 
-<font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>  
 ### Working Paper:
 <details>
   <summary markdown="span"><font color="blue">Place-based policies and structural change: Evidence from India's Special Economic Zones</font>
@@ -27,8 +26,6 @@ My main research interests are in Development Economics and Public Economics.
  <a href="danieloverbeck.github.io/WP040 GalleOverbeckRiedelSeidel PlaceBasedPoliciesAndStructuralChange.pdf" target="_blank">[STEG/CEPR Working Paper] </a> 
     
   
-  
-<font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>  
 ### Work in progress:
 <details>
   <summary markdown="span"><font color="blue">Turnover Taxation in Zambia</font>
