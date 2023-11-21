@@ -46,7 +46,10 @@ different industry denominations. |
     <summary markdown="span"><font color="blue">The Impacts of Carbon Taxes in the Developing World: Evidence from South Africa </font>
 
   (with Johannes Gallé, Rodrigo Oliveira, Nadine Riedel and Edson Servernini) </summary>
+  </details>
  
+ ----
+  
 <!--
  <a href="https://www.dropbox.com/s/83xwsadbrh63uqg/SomePaper2.pdf?dl=0" target="_blank"><u>[Paper (PDF)]</u></a> (Prelim. draft available upon request) 
 ----
