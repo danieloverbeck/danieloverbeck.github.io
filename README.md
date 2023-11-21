@@ -38,7 +38,7 @@ different industry denominations. |
     
   (with Eliya Lungu) </summary>
   
-  <details>
+
     <summary markdown="span"><font color="blue">The Impacts of Carbon Taxes in the Developing World: Evidence from South Africa </font>
     
   (with Johannes Gallé, Rodrigo Oliveira, Nadine Riedel and Edson Servernini) </summary>
