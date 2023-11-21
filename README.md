@@ -36,9 +36,10 @@ different industry denominations. |
 <details>
   <summary markdown="span"><font color="blue">The Taxation of Microenterprises </font>
     
-  (with Eliya Lungu)</summary>
+  (with Eliya Lungu)
   
-   <summary markdown="span"><font color="blue">The Impacts of Carbon Taxes in the Developing World: Evidence from South Africa </font>
+  <details>
+    markdown="span"><font color="blue">The Impacts of Carbon Taxes in the Developing World: Evidence from South Africa </font>
     
   (with Johannes Gallé, Rodrigo Oliveira, Nadine Riedel and Edson Servernini)</summary>
  
