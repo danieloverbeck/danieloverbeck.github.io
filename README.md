@@ -32,19 +32,27 @@ different industry denominations. |
 <a href="https://faculti.net/place-based-policies-structural-change-and-female-labor/" target="_blank">[Video Interview with faculti.net] </a> 
     
   ----
-### Work in progress:
-<details>
-  <summary markdown="span"><font color="blue">The Taxation of Microenterprises </font>
-    
-  (with Eliya Lungu) </summary>
 
-  <details>
+### Work in Progress:
 
  ----
-
- <details>
-     <summary markdown="span"><font color="blue">The Impacts of Carbon Taxes in the Developing World: Evidence from South Africa </font>
-  (with Johannes Gallé, Rodrigo Oliveira, Nadine Riedel and Edson Servernini) </summary>
-  </details>
+  
+ 
+<details>
+  <summary markdown="span">The Taxation of Microenterprises
+  
+  (with <a href="https://www.uni-mannheim.de/gess/programs/cdse/our-students/2021/bjarne-horst/" target="_blank">Bjarne Horst</a> and <a href="http://janschymik.de" target="_blank">Jan Schymik</a>)</summary>
+  
+ </details>
+ 
+ ----
+  
+ 
+<details>
+  <summary markdown="span">The impact of carbon taxes in the developing world: Evidence from South Africa
+  
+  (with <a href="https://sites.google.com/view/husnucdalgic" target="_blank">Hüsnü Dalgic</a> and <a href="https://sites.google.com/site/patrickhuertgen" target="_blank">Patrick Hürtgen</a>)</summary>
+  
+ </details>
  
  ----
