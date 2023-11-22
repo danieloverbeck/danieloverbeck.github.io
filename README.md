@@ -51,7 +51,7 @@ different industry denominations. |
 <details>
   <summary markdown="span">The impact of carbon taxes in the developing world: Evidence from South Africa
   
-  (with Johannes Gallé, Rodrigo Olivares, Nadine Riedel and Edson Severnini)</summary>
+  (with Johannes Gallé, Rodrigo Oliveira, Nadine Riedel and Edson Severnini)</summary>
   
  </details>
  
