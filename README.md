@@ -1,8 +1,6 @@
 {::options parse_block_html="true" /}
 
 
-<!--<h1><font color="scarlet"> THIS WEBSITE IS UNDER CONSTRUCTION! </font></h1>  -->
-
 ### Welcome!
 
 I am a PhD student in Economics at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. \
