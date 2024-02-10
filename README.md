@@ -14,6 +14,7 @@ My main research interests are in Development Economics and Public Economics.
 ### Working Paper:
 <details>
   <summary markdown="span"><font color="blue">Place-based policies, structural change and female labor: Evidence from India's Special Economic Zones</font>
+    
   (with <a href="https://www.mcc-berlin.net/ueber-uns/team/galle-johannes.html" target="_blank"> Johannes Gallé </a> ,  <a href="https://sites.google.com/view/riedeleconomics/welcome" target="_blank">Nadine Riedel</a> and <a href="https://sites.google.com/site/tobiasseideluni/home-1" target="_blank">Tobias Seidel</a>)
    <br />
   <b> <i>Journal of Public Economics, revise and resubmit </i> </b> </summary>
