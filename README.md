@@ -47,7 +47,7 @@ different industry denominations. |
   
   | **Abstract**          |
 We study tax compliance of microenterprises under turnover taxation. Using administrative data on the universe of tax filings from Zambia, we document strong and sharp bunching (i) in strictly dominated regions where firms would be better off by reducing turnover and (ii) at amounts which imply round number tax liabilities. These observations reject predictions from standard models of tax compliance but can be rationalized when interpreting tax payments as outcomes of negotiations between taxpayers and tax collectors, as we show in a simple model of tax reporting. We conduct a survey of more than 500 microenterprises in Zambia and document that discussing tax payments with officials before filing tax returns is a widespread phenomenon, lending support to the negotiation channel. Finally, a randomized lab-in-the-field experiment provides evidence against competing explanations for the observed bunching behavior.|
-</details>
+
 
   </details>
   <summary markdown="span"><font color="blue">Carbon taxation in emerging economies</font>
@@ -55,9 +55,9 @@ We study tax compliance of microenterprises under turnover taxation. Using admin
   (with Johannes Gallé, Rodrigo Oliveira, Nadine Riedel and Edson Severnini)<br />
   <b> <i> UNU-WIDER grant (10,000 USD) </i> </b> </summary>
   
- </details>
+
  
    </details>
   <summary markdown="span"><font color="blue">Taxing FDI in a developing economy: the case of informality</font>
-    </details>
+    
 
