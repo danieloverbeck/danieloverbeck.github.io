@@ -53,7 +53,7 @@ We study tax compliance of microenterprises under turnover taxation. Using admin
   <summary markdown="span"><font color="blue">Carbon taxation in emerging economies</font>
 
   (with Johannes Gallé, Rodrigo Oliveira, Nadine Riedel and Edson Severnini)<br />
-  <b> <i> UNU-WIDER grant (10,000 GBP) </i> </b> </summary>
+  <b> <i> UNU-WIDER grant (10,000 USD) </i> </b> </summary>
   
  </details>
  
