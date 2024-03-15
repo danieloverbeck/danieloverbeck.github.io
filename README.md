@@ -40,7 +40,7 @@ different industry denominations. |
 <details>
   <summary markdown="span"><font color="blue">The Taxation of Microenterprises</font>
     
-  (with <a Eliya Lungu </a>) <br />
+  (with Eliya Lungu) <br />
   <b> <i> IGC grant (10,000 GBP) </i> </b> </summary>
 
     | **Abstract**          |
