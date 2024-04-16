@@ -38,7 +38,7 @@ different industry denominations. |
   
  
 <details>
-  <summary markdown="span"><font color="blue">The Taxation of Microenterprises</font>
+  <summary markdown="span"><font color="blue">Bargaining over Taxes</font>
     
   (with Eliya Lungu) <br />
   <b> <i> IGC grant (10,000 GBP) </i> </b> </summary>
@@ -46,7 +46,20 @@ different industry denominations. |
   
   
   | **Abstract**          |
-We study tax compliance of microenterprises under turnover taxation. Using administrative data on the universe of tax filings from Zambia, we document strong and sharp bunching (i) in strictly dominated regions where firms would be better off by reducing turnover and (ii) at amounts which imply round number tax liabilities. These observations reject predictions from standard models of tax compliance but can be rationalized when interpreting tax payments as outcomes of negotiations between taxpayers and tax collectors, as we show in a simple model of tax reporting. We conduct a survey of more than 500 microenterprises in Zambia and document that discussing tax payments with officials before filing tax returns is a widespread phenomenon, lending support to the negotiation channel. Finally, a randomized lab-in-the-field experiment provides evidence against competing explanations for the observed bunching behavior.|
+This paper shows that bargaining over tax payments is a prevalent mode of tax
+compliance and enforcement in lower income countries. Using administrative data
+on the universe of turnover tax fi lings from Zambia, we document strong and sharp
+bunching (i) in strictly dominated regions where fi rms would be better off by reduc-
+ing turnover and (ii) at amounts which imply round number tax liabilities. These
+observations reject predictions from standard models of tax compliance, but can
+be rationalized when interpreting tax payments as outcomes of bargaining between
+taxpayers and tax collectors. We conduct a survey of more than 500 fi rms in Zambia
+and document that discussing tax payments with offi cials before fi ling tax returns
+is a widespread phenomenon, lending support to the bargaining channel. Tax audit
+data as well as a randomized survey experiment provide evidence against compet-
+ing explanations such as poor record-keeping or audit experiences for the observed
+bunching behavior. Finally, we propose a theoretical framework to explain how and
+when bargaining over taxes may occur.|
  
  </details>
  
