@@ -9,6 +9,20 @@ My main research interests are in Public Economics and Development Economics.
 ### <a href="https://danieloverbeck.github.io/OverbeckCVJan23 (7).pdf" target="_blank">Curriculum Vitae</a>
 
 ----
+
+### Upcoming Talks
+
+<details><summary markdown="span"><font size=2>Next talk: <a href="https://cssh.northeastern.edu/gap/neudc-2024/" target="_blank"><u>Northeastern Universities Development Consortium 2024</u></a> (Boston), Nov 2-3: Bargaining Over Taxes </font></summary></details> 
+
+<details><summary markdown="span"><font size=2>Next talk: <a href="https://ntanet.org/2024/07/117th-annual-conference-on-taxation-full/" target="_blank"><u> National Tax Association Conference </u></a> (Detroit), Nov 14-16: Bargaining Over Taxes </font></summary></details> 
+
+<details><summary markdown="span"><font size=2>Next talk: <a href="https://www.wiwi.uni-passau.de/development-economics/volkswirtschaftliches-forschungsseminar" target="_blank"><u> Universität Passau </u></a>, Nov 27: Bargaining Over Taxes </font></summary></details> 
+
+<a> </a>
+
+----
+
+----
 ### Working Paper:
 <details>
   <summary markdown="span"><font color="blue">Place-based policies, structural change and female labor: Evidence from India's Special Economic Zones</font>
