@@ -11,7 +11,7 @@ My main research interests are in Public Economics and Development Economics.
 ----
 
 ### Upcoming Talks
-<font size=2> I will present my Job Market Paper <b> <i>"Bargaining Over Taxes" </i> </b> (draft available soon) at the following events:</font></summary></details> 
+<font size=2> I will present my Job Market Paper <b> <i>"Bargaining Over Taxes" </i> </b> (draft available soon) at the following events:</font>
 
 <details><summary markdown="span"><font size=2><a href="https://cssh.northeastern.edu/gap/neudc-2024/" target="_blank"><u>Northeastern Universities Development Consortium </u></a> (Boston), Nov 2-3, 2024 </font></summary></details> 
 
