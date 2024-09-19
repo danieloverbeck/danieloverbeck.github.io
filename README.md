@@ -15,11 +15,11 @@ My main research interests are in Public Economics and Development Economics.
 
 <details><summary markdown="span"><font size=2><a href="https://cssh.northeastern.edu/gap/neudc-2024/" target="_blank"><u>Northeastern Universities Development Consortium </u></a> (Boston), Nov 2-3, 2024 </font></summary></details> 
 
-<details><summary markdown="span"><font size=2> <a href="https://ntanet.org/2024/07/117th-annual-conference-on-taxation-full/" target="_blank"><u> 117th Annual Conference on Taxation </u></a> (Detroit), Nov 14-16 2024 </font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="https://ntanet.org/2024/07/117th-annual-conference-on-taxation-full/" target="_blank"><u> 117th Annual Conference on Taxation </u></a> (Detroit), Nov 14-16, 2024 </font></summary></details> 
 
-<details><summary markdown="span"><font size=2> <a href="https://www.wiwi.uni-passau.de/development-economics/volkswirtschaftliches-forschungsseminar" target="_blank"><u> Universität Passau </u></a>, Nov 27. 2024 </font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="https://www.wiwi.uni-passau.de/development-economics/volkswirtschaftliches-forschungsseminar" target="_blank"><u> Universität Passau </u></a>, Nov 27, 2024 </font></summary></details> 
 
-<details><summary markdown="span"><font size=2> <a href="https://www.parisschoolofeconomics.eu/en/research/academic-activity/seminars/applied-economics-lunch-seminar/" target="_blank"><u> Paris School of Economics </u></a>,, Feb 25 2025</font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="https://www.parisschoolofeconomics.eu/en/research/academic-activity/seminars/applied-economics-lunch-seminar/" target="_blank"><u> Paris School of Economics </u></a>, Feb 25 2025</font></summary></details> 
 
 <a> </a>
 
