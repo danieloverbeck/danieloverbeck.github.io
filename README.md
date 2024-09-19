@@ -11,12 +11,15 @@ My main research interests are in Public Economics and Development Economics.
 ----
 
 ### Upcoming Talks
+<details><summary markdown="span"><font size=2> I will present my Job Market Paper <b> <i>"Bargaining Over Taxes" </i> </b> (draft will follow soon) at the following occasions: </summary> </font></summary></details> 
 
-<details><summary markdown="span"><font size=2>Next talk: <a href="https://cssh.northeastern.edu/gap/neudc-2024/" target="_blank"><u>Northeastern Universities Development Consortium 2024</u></a> (Boston), Nov 2-3: Bargaining Over Taxes </font></summary></details> 
+<details><summary markdown="span"><font size=2><a href="https://cssh.northeastern.edu/gap/neudc-2024/" target="_blank"><u>Northeastern Universities Development Consortium 2024</u></a> (Boston), Nov 2-3 </font></summary></details> 
 
-<details><summary markdown="span"><font size=2>Next talk: <a href="https://ntanet.org/2024/07/117th-annual-conference-on-taxation-full/" target="_blank"><u> National Tax Association Conference </u></a> (Detroit), Nov 14-16: Bargaining Over Taxes </font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="https://ntanet.org/2024/07/117th-annual-conference-on-taxation-full/" target="_blank"><u> National Tax Association Conference </u></a> (Detroit), Nov 14-16 </font></summary></details> 
 
-<details><summary markdown="span"><font size=2>Next talk: <a href="https://www.wiwi.uni-passau.de/development-economics/volkswirtschaftliches-forschungsseminar" target="_blank"><u> Universität Passau </u></a>, Nov 27: Bargaining Over Taxes </font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="https://www.wiwi.uni-passau.de/development-economics/volkswirtschaftliches-forschungsseminar" target="_blank"><u> Universität Passau </u></a>, Nov 27 </font></summary></details> 
+
+<details><summary markdown="span"><font size=2> <a href="https://www.parisschoolofeconomics.eu/en/research/academic-activity/seminars/applied-economics-lunch-seminar/" target="_blank"><u> Paris School of Economics </u></a>, Feb 25 </font></summary></details> 
 
 <a> </a>
 
