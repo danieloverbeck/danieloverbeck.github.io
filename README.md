@@ -54,7 +54,8 @@ different industry denominations.
   <b> <i> UNU-WIDER grant (USD 10,000 ) </i> </b> </summary>
   
 ----
-    <summary markdown="span"><font color="blue">The Taxation of SMEs in Rwanda</font>
+
+<summary markdown="span"><font color="blue">The Taxation of SMEs in Rwanda</font>
   <b> <i> IGC grant (GBP 2,000) </i> </b>
   
 
