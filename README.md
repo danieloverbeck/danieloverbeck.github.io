@@ -44,24 +44,6 @@ regions above tax schedule discontinuities and (ii) at round number tax payments
  <a href="https://danieloverbeck.github.io/JMP_Overbeck_Bargaining_Over_Taxes.pdf" target="_blank">[Download] </a> 
  <a href="https://www.theigc.org/collections/taxation-microenterprises" target="_blank">[IGC Grant] </a>
  
-<details>
-  <summary markdown="span"><font color="blue">Place-based policies, structural change and female labor: Evidence from India's Special Economic Zones</font>
-    
-  (with <a href="https://www.mcc-berlin.net/ueber-uns/team/galle-johannes.html" target="_blank"> Johannes Gallé </a> ,  <a href="https://sites.google.com/view/riedeleconomics/welcome" target="_blank">Nadine Riedel</a> and <a href="https://sites.google.com/site/tobiasseideluni/home-1" target="_blank">Tobias Seidel</a>) <br />
-  <b> <i>Journal of Public Economics, revised and resubmitted </i> </b> </summary>
-  
-This paper quantifies the local economic impact of Special Economic Zones (SEZs) that were established in India between 2005-2013. Based on a novel data set that combines
-census data on the universe of Indian firms with georeferenced data on SEZs, we find that
-SEZs increased manufacturing and service employment with positive spillover effects up to
-10km. This employment gain was paralleled by a decline in local agricultural employment,
-in particular of women, suggesting that the policy contributed to structural change. We find
-no evidence for heterogeneous effects between privately and publicly run SEZs or zones with
-different industry denominations.
- 
-  </details>
-  <a href="https://danieloverbeck.github.io/GalleOverbeckRiedelSeidel2024.pdf" target="_blank">[Download] </a>
- <a href="https://steg.cepr.org/publications/place-based-policies-structural-change-and-female-labor-evidence-indias-special" target="_blank">[STEG/CEPR Working Paper] </a> 
-<a href="https://faculti.net/place-based-policies-structural-change-and-female-labor/" target="_blank">[Video Interview with faculti.net] </a> 
 
 ### Work in Progress:
  
