@@ -8,42 +8,6 @@ My main research interests are in Public Economics and Development Economics.
 
 ### <a href="https://danieloverbeck.github.io/OverbeckCVJan23 (7).pdf" target="_blank">Curriculum Vitae</a>
 
-### Job Market Paper:
-<details>
-  <summary markdown="span"><font color="blue">Bargaining Over Taxes</font>
-    
-  (with Eliya Lungu)
-  </summary>
-  
-This paper shows that bargaining over tax payments is an important feature of tax compliance and enforcement in lower income countries. Analyzing the universe of administrative tax filings from Zambia, we document sharp bunching in (i) dominated
-regions above tax schedule discontinuities and (ii) at round number tax payments (not necessarily round turnover). Additional evidence from our own survey suggests that discussing tax payments with tax officials before filing taxes is widespread, consistent with tax payments being the outcomes of bargaining. Such bargaining over taxes is consistent with fact (ii), as bargaining outcomes are often round and salient numbers and with fact (i), because tax schedule discontinuities restrict the set of feasible bargaining outcomes. In contrast, alternative explanations based on audit probabilities, optimization frictions, and mistakes cannot rationalize the bunching patterns and are inconsistent with additional experimental survey evidence. Finally, we generalize the conventional Allingham & Sandmo (1972) model to allow for bargaining as a mode of tax compliance. We show that bargaining leads to Pareto-improvements for both taxpayers and the state as long as state capacity is sufficiently low.
- 
-  </details>
- <a href="https://danieloverbeck.github.io/JMP_Overbeck_Bargaining_Over_Taxes.pdf" target="_blank">[PDF] </a> 
-    
-  ----
-
-
-----
-
-### Upcoming Talks
-<font size=2> I will present my Job Market Paper <b> <i>"Bargaining Over Taxes" </i> </b> (draft available soon) at the following events:</font>
-
-<details><summary markdown="span"><font size=2> <a href="https://wiwi.uni-mainz.de/brownbag/" target="_blank"><u> University of Mainz </u></a>, Oct 22, 2024 </font></summary></details> 
-
-<details><summary markdown="span"><font size=2><a href="https://cssh.northeastern.edu/gap/neudc-2024/" target="_blank"><u>Northeastern Universities Development Consortium </u></a> (Boston), Nov 2-3, 2024 </font></summary></details> 
-
-<details><summary markdown="span"><font size=2> <a href="https://ntanet.org/2024/07/117th-annual-conference-on-taxation-full/" target="_blank"><u> 117th Annual Conference on Taxation </u></a> (Detroit), Nov 14-16, 2024 </font></summary></details> 
-
-<details><summary markdown="span"><font size=2> <a href="https://www.wiwi.uni-passau.de/development-economics/volkswirtschaftliches-forschungsseminar" target="_blank"><u> University of Passau </u></a>, Nov 27, 2024 </font></summary></details> 
-
-<details><summary markdown="span"><font size=2> <a href="https://www.parisschoolofeconomics.eu/en/research/academic-activity/seminars/applied-economics-lunch-seminar/" target="_blank"><u> Paris School of Economics </u></a>, Feb 25, 2025</font></summary></details> 
-
-<a> </a>
-
-----
-
-----
 ### Working Paper:
 <details>
   <summary markdown="span"><font color="blue">Place-based policies, structural change and female labor: Evidence from India's Special Economic Zones</font>
@@ -64,7 +28,41 @@ different industry denominations. |
   </details>
  <a href="https://danieloverbeck.github.io/WP040 GalleOverbeckRiedelSeidel PlaceBasedPoliciesStructuralChangeAndFemaleLabor REVMar23.pdf" target="_blank">[STEG/CEPR Working Paper] </a> 
 <a href="https://faculti.net/place-based-policies-structural-change-and-female-labor/" target="_blank">[Video Interview with faculti.net] </a> 
+
+<details>
+  <summary markdown="span"><font color="blue">Bargaining Over Taxes</font>
     
+  (with Eliya Lungu) <br />
+  <b> <i> Job Market Paper </i> </b> </summary>
+  </summary>
+  
+This paper shows that bargaining over tax payments is an important feature of tax compliance and enforcement in lower income countries. Analyzing the universe of administrative tax filings from Zambia, we document sharp bunching in (i) dominated
+regions above tax schedule discontinuities and (ii) at round number tax payments (not necessarily round turnover). Additional evidence from our own survey suggests that discussing tax payments with tax officials before filing taxes is widespread, consistent with tax payments being the outcomes of bargaining. Such bargaining over taxes is consistent with fact (ii), as bargaining outcomes are often round and salient numbers and with fact (i), because tax schedule discontinuities restrict the set of feasible bargaining outcomes. In contrast, alternative explanations based on audit probabilities, optimization frictions, and mistakes cannot rationalize the bunching patterns and are inconsistent with additional experimental survey evidence. Finally, we generalize the conventional Allingham & Sandmo (1972) model to allow for bargaining as a mode of tax compliance. We show that bargaining leads to Pareto-improvements for both taxpayers and the state as long as state capacity is sufficiently low.
+ 
+  </details>
+ <a href="https://danieloverbeck.github.io/JMP_Overbeck_Bargaining_Over_Taxes.pdf" target="_blank">[PDF] </a> 
+    
+----
+
+### Upcoming Talks
+<font size=2> I will present my Job Market Paper <b> <i>"Bargaining Over Taxes" </i> </b> (draft available soon) at the following events:</font>
+
+<details><summary markdown="span"><font size=2> <a href="https://wiwi.uni-mainz.de/brownbag/" target="_blank"><u> University of Mainz </u></a>, Oct 22, 2024 </font></summary></details> 
+
+<details><summary markdown="span"><font size=2><a href="https://cssh.northeastern.edu/gap/neudc-2024/" target="_blank"><u>Northeastern Universities Development Consortium </u></a> (Boston), Nov 2-3, 2024 </font></summary></details> 
+
+<details><summary markdown="span"><font size=2> <a href="https://ntanet.org/2024/07/117th-annual-conference-on-taxation-full/" target="_blank"><u> 117th Annual Conference on Taxation </u></a> (Detroit), Nov 14-16, 2024 </font></summary></details> 
+
+<details><summary markdown="span"><font size=2> <a href="https://www.wiwi.uni-passau.de/development-economics/volkswirtschaftliches-forschungsseminar" target="_blank"><u> University of Passau </u></a>, Nov 27, 2024 </font></summary></details> 
+
+<details><summary markdown="span"><font size=2> <a href="https://www.parisschoolofeconomics.eu/en/research/academic-activity/seminars/applied-economics-lunch-seminar/" target="_blank"><u> Paris School of Economics </u></a>, Feb 25, 2025</font></summary></details> 
+
+<a> </a>
+
+----
+
+----
+
   ----
 
 ### Work in Progress:
