@@ -42,7 +42,7 @@ different industry denominations.
  
   </details>
   <a href="https://danieloverbeck.github.io/GalleOverbeckRiedelSeidel2024.pdf" target="_blank">[Download] </a>
- <a href="https://danieloverbeck.github.io/WP040 GalleOverbeckRiedelSeidel PlaceBasedPoliciesStructuralChangeAndFemaleLabor REVMar23.pdf" target="_blank">[STEG/CEPR Working Paper] </a> 
+ <a href="https://steg.cepr.org/publications/place-based-policies-structural-change-and-female-labor-evidence-indias-special" target="_blank">[STEG/CEPR Working Paper] </a> 
 <a href="https://faculti.net/place-based-policies-structural-change-and-female-labor/" target="_blank">[Video Interview with faculti.net] </a> 
 
 
