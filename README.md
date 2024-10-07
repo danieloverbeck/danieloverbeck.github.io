@@ -24,7 +24,7 @@ regions above tax schedule discontinuities and (ii) at round number tax payments
  
   </details>
  <a href="https://danieloverbeck.github.io/JMP_Overbeck_Bargaining_Over_Taxes.pdf" target="_blank">[Download] </a> 
-
+ <a href="https://www.theigc.org/collections/taxation-microenterprises" target="_blank">[IGC Grant] </a>
  
 <details>
   <summary markdown="span"><font color="blue">Place-based policies, structural change and female labor: Evidence from India's Special Economic Zones</font>
