@@ -23,7 +23,7 @@ This paper shows that bargaining over tax payments is an important feature of ta
 regions above tax schedule discontinuities and (ii) at round number tax payments (not necessarily round turnover). Additional evidence from our own survey suggests that discussing tax payments with tax officials before filing taxes is widespread, consistent with tax payments being the outcomes of bargaining. Such bargaining over taxes is consistent with fact (ii), as bargaining outcomes are often round and salient numbers and with fact (i), because tax schedule discontinuities restrict the set of feasible bargaining outcomes. In contrast, alternative explanations based on audit probabilities, optimization frictions, and mistakes cannot rationalize the bunching patterns and are inconsistent with additional experimental survey evidence. Finally, we generalize the conventional Allingham & Sandmo (1972) model to allow for bargaining as a mode of tax compliance. We show that bargaining leads to Pareto-improvements for both taxpayers and the state as long as state capacity is sufficiently low.
  
   </details>
- <a href="https://danieloverbeck.github.io/JMP_Overbeck_Bargaining_Over_Taxes.pdf" target="_blank">[PDF] </a> 
+ <a href="https://danieloverbeck.github.io/JMP_Overbeck_Bargaining_Over_Taxes.pdf" target="_blank">[Download] </a> 
 
  
 <details>
@@ -41,6 +41,7 @@ no evidence for heterogeneous effects between privately and publicly run SEZs or
 different industry denominations.
  
   </details>
+  <a href="https://danieloverbeck.github.io/GalleOverbeckRiedelSeidel2024.pdf" target="_blank">[Download] </a>
  <a href="https://danieloverbeck.github.io/WP040 GalleOverbeckRiedelSeidel PlaceBasedPoliciesStructuralChangeAndFemaleLabor REVMar23.pdf" target="_blank">[STEG/CEPR Working Paper] </a> 
 <a href="https://faculti.net/place-based-policies-structural-change-and-female-labor/" target="_blank">[Video Interview with faculti.net] </a> 
 
