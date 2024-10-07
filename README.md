@@ -60,7 +60,7 @@ different industry denominations.
   
 
   ----
-  <summary markdown="span"><font color="blue">Taxing FDI in a developing economy: the case of informality</font>
+  <summary markdown="span"><font color="blue">Taxing FDI in a developing economy: the case of informality</font> </summary>
 
     
 ### Upcoming Talks
