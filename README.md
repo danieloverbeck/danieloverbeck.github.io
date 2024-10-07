@@ -56,7 +56,7 @@ different industry denominations.
 ----
 
 <summary markdown="span"><font color="blue">The Taxation of SMEs in Rwanda</font>  <br />
-  <b> <i> IGC grant (GBP 2,000) </i> </b>
+  <b> <i> IGC grant (GBP 2,000) </i> </b> </summary>
   
 
   ----
