@@ -44,12 +44,28 @@ different industry denominations.
  <a href="https://steg.cepr.org/publications/place-based-policies-structural-change-and-female-labor-evidence-indias-special" target="_blank">[STEG/CEPR Working Paper] </a> 
 <a href="https://faculti.net/place-based-policies-structural-change-and-female-labor/" target="_blank">[Video Interview with faculti.net] </a> 
 
+### Work in Progress:
+ 
+  ----
+  
+  <summary markdown="span"><font color="blue">Carbon taxation in emerging economies</font>
+
+  (with Johannes Gallé, Rodrigo Oliveira, Nadine Riedel and Edson Severnini)<br />
+  <b> <i> UNU-WIDER grant (USD 10,000 ) </i> </b> </summary>
+
+    <summary markdown="span"><font color="blue">The Taxation of SMEs in Rwanda</font>
+<br />
+  <b> <i> IGC grant (GBP 2,000) </i> </b> </summary>
+  
+
+  ----
+  <summary markdown="span"><font color="blue">Taxing FDI in a developing economy: the case of informality</font>
 
     
 ----
 
 ### Upcoming Talks
-<font size=2> I will present my Job Market Paper <b> <i>"Bargaining Over Taxes" </i> </b> (draft available soon) at the following events:</font>
+<font size=2> I will present my Job Market Paper <b> <i>"Bargaining Over Taxes" </i> </b> at the following events:</font>
 
 <details><summary markdown="span"><font size=2> <a href="https://wiwi.uni-mainz.de/brownbag/" target="_blank"><u> University of Mainz </u></a>, Oct 22, 2024 </font></summary></details> 
 
@@ -69,34 +85,6 @@ different industry denominations.
 
   ----
 
-### Work in Progress:
 
- ----
-  
- 
-<details>
-  <summary markdown="span"><font color="blue">Bargaining over Taxes</font>
-    
-  (with Eliya Lungu) <br />
-  <b> <i> IGC grant (10,000 GBP) </i> </b> </summary>
-
-  
-  
-  | **Abstract**          |
-This paper shows that bargaining over tax payments is an important feature of tax compliance and enforcement in lower income countries. Analyzing the universe of administrative tax filings from Zambia, we document sharp bunching in (i) dominated
-regions above tax schedule discontinuities and (ii) at round number tax payments (not necessarily round turnover). Additional evidence from our own survey suggests that discussing tax payments with tax officials before filing taxes is widespread, consistent with tax payments being the outcomes of bargaining. Such bargaining over taxes is consistent with fact (ii), as bargaining outcomes are often round and salient numbers and with fact (i), because tax schedule discontinuities restrict the set of feasible bargaining outcomes. In contrast, alternative explanations based on audit probabilities, optimization frictions, and mistakes cannot rationalize the bunching patterns and are inconsistent with additional experimental survey evidence. Finally, we generalize the conventional Allingham & Sandmo (1972) model to allow for bargaining as a mode of tax compliance. We show that bargaining leads to pareto-improvements for both taxpayers and the state as long as state capacity is sufficiently low.|
- 
- </details>
- 
-  ----
-  
-  <summary markdown="span"><font color="blue">Carbon taxation in emerging economies</font>
-
-  (with Johannes Gallé, Rodrigo Oliveira, Nadine Riedel and Edson Severnini)<br />
-  <b> <i> UNU-WIDER grant (10,000 USD) </i> </b> </summary>
-  
-
-  ----
-  <summary markdown="span"><font color="blue">Taxing FDI in a developing economy: the case of informality</font>
     
 
