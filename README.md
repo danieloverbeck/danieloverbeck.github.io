@@ -51,7 +51,7 @@ different industry denominations.
   <summary markdown="span"><font color="blue">Carbon taxation in emerging economies</font>
 
   (with Johannes Gallé, Rodrigo Oliveira, Nadine Riedel and Edson Severnini)<br />
-  <b> <i> UNU-WIDER grant (USD 10,000 ) </i> </b> </summary>
+  <b> <i> UNU-WIDER grant (USD 10,000) </i> </b> </summary>
   
 ----
 
