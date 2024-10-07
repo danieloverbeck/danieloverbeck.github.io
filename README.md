@@ -63,7 +63,7 @@ different industry denominations.
   <summary markdown="span"><font color="blue">Taxing FDI in a developing economy: the case of informality</font> </summary>
 
   ----
-### Upcoming Talks
+### Upcoming Talks:
 <font size=2> I will present my Job Market Paper <b> <i>"Bargaining Over Taxes" </i> </b> at the following events:</font>
 
 <details><summary markdown="span"><font size=2> <a href="https://wiwi.uni-mainz.de/brownbag/" target="_blank"><u> University of Mainz </u></a>, Oct 22, 2024 </font></summary></details> 
