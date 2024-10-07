@@ -12,7 +12,7 @@ My main research interests are in Public Economics and Development Economics.
 <details>
   <summary markdown="span"><font color="blue">Bargaining Over Taxes</font>
     
-  (with Eliya Lungu) <br />
+  (with Eliya Lungu)
   </summary>
   
 This paper shows that bargaining over tax payments is an important feature of tax compliance and enforcement in lower income countries. Analyzing the universe of administrative tax filings from Zambia, we document sharp bunching in (i) dominated
