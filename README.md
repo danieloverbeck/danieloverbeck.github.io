@@ -13,6 +13,8 @@ My main research interests are in Public Economics and Development Economics.
 ### Upcoming Talks
 <font size=2> I will present my Job Market Paper <b> <i>"Bargaining Over Taxes" </i> </b> (draft available soon) at the following events:</font>
 
+<details><summary markdown="span"><font size=2> <a href="https://wiwi.uni-mainz.de/brownbag/" target="_blank"><u> University of Mainz </u></a>, Oct 22, 2024 </font></summary></details> 
+
 <details><summary markdown="span"><font size=2><a href="https://cssh.northeastern.edu/gap/neudc-2024/" target="_blank"><u>Northeastern Universities Development Consortium </u></a> (Boston), Nov 2-3, 2024 </font></summary></details> 
 
 <details><summary markdown="span"><font size=2> <a href="https://ntanet.org/2024/07/117th-annual-conference-on-taxation-full/" target="_blank"><u> 117th Annual Conference on Taxation </u></a> (Detroit), Nov 14-16, 2024 </font></summary></details> 
