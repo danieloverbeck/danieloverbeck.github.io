@@ -12,7 +12,7 @@ My main research interests are in Public Economics and Development Economics.
 <details>
   <summary markdown="span"><font color="blue">Bargaining Over Taxes</font>
     
-  (with Eliya Lungu <br />
+  (with Eliya Lungu) <br />
   </summary>
   
   
