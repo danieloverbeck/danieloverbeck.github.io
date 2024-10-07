@@ -8,7 +8,9 @@ My main research interests are in Public Economics and Development Economics.
 
 ### <a href="https://danieloverbeck.github.io/OverbeckCVJan23 (7).pdf" target="_blank">Curriculum Vitae</a>
 
-### Working Paper:
+----
+
+### Working Papers:
 <details>
   <summary markdown="span"><font color="blue">Place-based policies, structural change and female labor: Evidence from India's Special Economic Zones</font>
     
@@ -59,7 +61,7 @@ regions above tax schedule discontinuities and (ii) at round number tax payments
 
 <a> </a>
 
-----
+
 
 ----
 
