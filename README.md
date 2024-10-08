@@ -46,12 +46,24 @@ regions above tax schedule discontinuities and (ii) at round number tax payments
 ### Work in Progress:
  
   ----
-  
+  <details>
   <summary markdown="span"><font color="blue">Carbon taxation in emerging economies</font>
 
   (with Johannes Gallé, Rodrigo Oliveira, Nadine Riedel and Edson Severnini)<br />
   <b> <i> UNU-WIDER grant (USD 10,000) </i> </b> </summary>
   
+This paper presents the first comprehensive analysis of how firms respond to carbon taxation
+in emerging economies. Our evidence builds on exhaustive administrative data from South
+Africa, the 13th largest emitter worldwide. The results are twofold. First, we establish
+stylized facts on the types of firms that are affected, how much revenue is generated from
+which sector, and which share of national emissions the tax is able to capture. Second, we
+study the dynamic impacts of the carbon tax on firm-level outcomes such as profits, sales,
+capital, and labor inputs. We show that the design of the South African carbon tax leads to
+substantial heterogeneity across sectors in terms of how strongly firms are affected. Contrary
+to the concern that carbon tax may hinder economic growth we measure no negative effects
+on firm performance on average.
+
+</details> 
 ----
 
 <summary markdown="span"><font color="blue">The Taxation of SMEs in Rwanda</font>  <br />
