@@ -11,7 +11,6 @@ My main research interests are in Public Economics and Development Economics.
 ----
 
 ### Working Papers:
-(click title for abstract)
 
 <details>
   <summary markdown="span"><font color="blue">Place-based policies, structural change and female labor: Evidence from India's Special Economic Zones</font>
@@ -48,9 +47,7 @@ feasible bargaining outcomes. Finally, we generalize the conventional Allingham 
  
 
 ### Work in Progress:
-(click title for abstract)
  
-  ----
   <details>
   <summary markdown="span"><font color="blue">Carbon taxation in emerging economies</font>
 
