@@ -14,7 +14,6 @@ My main research interests are in Public Economics and Development Economics.
 
 <details>
   <summary markdown="span"><font color="blue">Place-based policies, structural change and female labor: Evidence from India's Special Economic Zones</font>
-    
   (with <a href="https://www.mcc-berlin.net/ueber-uns/team/galle-johannes.html" target="_blank"> Johannes Gallé </a> ,  <a href="https://sites.google.com/view/riedeleconomics/welcome" target="_blank">Nadine Riedel</a> and <a href="https://sites.google.com/site/tobiasseideluni/home-1" target="_blank">Tobias Seidel</a>) <br />
   <b> <font color="red"> <i>Journal of Public Economics, revised and resubmitted </i>  </summary>
   
@@ -33,8 +32,7 @@ different industry denominations.
 
 <details>
   <summary markdown="span"><font color="blue">Bargaining Over Taxes</font>
-    
-  (with Eliya Lungu) <br />
+    (with Eliya Lungu) <br />
   <b> <i> Job Market Paper </i> </b> </summary>
   
 This paper shows that bargaining over tax payments is an important feature of tax compliance and enforcement in lower income countries. Analyzing the universe of administrative tax filings from Zambia, we document sharp bunching in (i) dominated
