@@ -35,8 +35,11 @@ different industry denominations.
     (with Eliya Lungu) <br />
   <b> <i> Job Market Paper </i> </b> </summary>
   
-This paper shows that bargaining over tax payments is an important feature of tax compliance and enforcement in lower income countries. Analyzing the universe of administrative tax filings from Zambia, we document sharp bunching in (i) dominated
-regions above tax schedule discontinuities and (ii) at round number tax payments (not necessarily round turnover). Additional evidence from our own survey suggests that discussing tax payments with tax officials before filing taxes is widespread, consistent with tax payments being the outcomes of bargaining. Such bargaining over taxes is consistent with fact (ii), as bargaining outcomes are often round and salient numbers and with fact (i), because tax schedule discontinuities restrict the set of feasible bargaining outcomes. In contrast, alternative explanations based on audit probabilities, optimization frictions, and mistakes cannot rationalize the bunching patterns and are inconsistent with additional experimental survey evidence. Finally, we generalize the conventional Allingham & Sandmo (1972) model to allow for bargaining as a mode of tax compliance. We show that bargaining leads to Pareto-improvements for both taxpayers and the state as long as state capacity is sufficiently low.
+This paper shows that bargaining over tax payments is an important feature of tax
+compliance and enforcement in lower income countries. Analyzing the universe of
+administrative tax filings from Zambia, we document sharp bunching in (i) dominated regions above tax schedule discontinuities, inconsistent with standard models of tax compliance and (ii) at round number tax payments, implying that certain payments are being targeted. Additional evidence from our own survey suggests
+that discussing tax payments with tax officials before filing taxes is widespread, consistent with tax payments being the outcomes of bargaining. Such bargaining over taxes is consistent with fact (ii), as bargaining outcomes are often round and salient numbers, and with fact (i), because tax schedule discontinuities restrict the set of
+feasible bargaining outcomes. Finally, we generalize the conventional Allingham & Sandmo (1972) model to allow for bargaining as a mode of tax compliance. We show that bargaining leads to Pareto-improvements for both taxpayers and the state as long as state capacity is sufficiently low.
  
   </details>
  <a href="https://danieloverbeck.github.io/JMP_Overbeck_Bargaining_Over_Taxes.pdf" target="_blank">[Download] </a> 
