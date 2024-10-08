@@ -68,7 +68,7 @@ on firm performance on average.
 
 
   </details> 
-  <summary markdown="span"><font color="blue">Taxing FDI in a developing economy: the case of informality</font> </summary><br />
+  <summary markdown="span"><font color="blue">Taxing FDI in a developing economy: the case of informality</font> <br /></summary>
   
 This paper introduces a new model which captures the eff ect of foreign direct investment (FDI) on a developing economy with an informal sector. The informal sector evolves endogenously as economic agents choose between working and setting up a firm and whether to do so formally or informally. FDI induces a uniform increase in labor costs but heterogenous productivity increases for domestic formal firms. Accordingly, some of these fi rms may opt for informality with increased FDI. This reduction in the domestic tax base may off set any revenue gains from additional FDI. It is shown that the revenue-neutral tax rate on FDI is decreasing in the government’s efficiency in screening tax avoidance, as more efficient governments are able to attenuate the increase in informality. The empirical analysis supports the key conclusions of the
 model.
