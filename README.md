@@ -11,13 +11,13 @@ My main research interests are in Public Economics and Development Economics.
 ### <a href="https://danieloverbeck.github.io/OverbeckCVJan23 (7).pdf" target="_blank">Curriculum Vitae</a>
 
 ----
+### Publications:
 
-### Working Papers:
 
 <details>
   <summary markdown="span"><font color="blue">Place-based policies, structural change and female labor: Evidence from India's Special Economic Zones</font>
   (with <a href="https://www.mcc-berlin.net/ueber-uns/team/galle-johannes.html" target="_blank"> Johannes Gallé </a> ,  <a href="https://sites.google.com/view/riedeleconomics/welcome" target="_blank">Nadine Riedel</a> and <a href="https://sites.google.com/site/tobiasseideluni/home-1" target="_blank">Tobias Seidel</a>) <br />
-  <b> <font color="red"> <i>Journal of Public Economics, revised and resubmitted </i>  </summary>
+  <b> <font color="red"> <i>Journal of Public Economics, accepted </i>  </summary>
   
 This paper quantifies the local economic impact of Special Economic Zones (SEZs) that were established in India between 2005-2013. Based on a novel data set that combines
 census data on the universe of Indian firms with georeferenced data on SEZs, we find that
@@ -32,6 +32,7 @@ different industry denominations.
  <a href="https://steg.cepr.org/publications/place-based-policies-structural-change-and-female-labor-evidence-indias-special" target="_blank">[STEG/CEPR Working Paper] </a> 
 <a href="https://faculti.net/place-based-policies-structural-change-and-female-labor/" target="_blank">[Video Interview with faculti.net] </a> 
 
+### Working Papers:
 <details>
   <summary markdown="span"><font color="blue">Bargaining Over Taxes</font>
     (with Eliya Lungu) <br />
