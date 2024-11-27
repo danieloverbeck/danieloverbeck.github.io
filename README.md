@@ -92,6 +92,8 @@ model.
 
 <details><summary markdown="span"><font size=2> <a href="https://www.wiwi.uni-passau.de/development-economics/volkswirtschaftliches-forschungsseminar" target="_blank"><u> University of Passau </u></a>, Nov 27, 2024 </font></summary></details> 
 
+<details><summary markdown="span"><font size=2> <a  target="_blank"><u> International Monetary Fund, Tax Policy Unit </u></a>, Feb 18, 2025</font></summary></details> 
+
 <details><summary markdown="span"><font size=2> <a href="https://www.parisschoolofeconomics.eu/en/research/academic-activity/seminars/applied-economics-lunch-seminar/" target="_blank"><u> Paris School of Economics </u></a>, Feb 25, 2025</font></summary></details> 
 
 <a> </a>
