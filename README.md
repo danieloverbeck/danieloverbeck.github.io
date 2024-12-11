@@ -31,6 +31,7 @@ different industry denominations.
   <a href="https://www.sciencedirect.com/science/article/pii/S0047272724001956" target="_blank">[Open Access JPubE] </a>
  <a href="https://steg.cepr.org/publications/place-based-policies-structural-change-and-female-labor-evidence-indias-special" target="_blank">[STEG/CEPR Working Paper] </a> 
 <a href="https://faculti.net/place-based-policies-structural-change-and-female-labor/" target="_blank">[Video Interview with faculti.net] </a> 
+<a href="https://voxdev.org/topic/macroeconomics-growth/place-based-policy-india-how-special-economic-zones-promoted-structural" target="_blank">[VoxDev Blog] </a> 
 
 ### Working Papers:
 <details>
@@ -46,7 +47,7 @@ feasible bargaining outcomes. Finally, we generalize the conventional Allingham 
  
   </details>
  <a href="https://danieloverbeck.github.io/JMP_Overbeck_Bargaining_Over_Taxes.pdf" target="_blank">[Download] </a> 
- <a href="https://www.theigc.org/collections/taxation-microenterprises" target="_blank">[IGC Grant] </a>
+ <a href="https://www.theigc.org/blogs/how-can-informal-interactions-and-bargaining-affect-tax-compliance-and-enforcement" target="_blank">[IGC Blog] </a>
  
 
 ### Work in Progress:
