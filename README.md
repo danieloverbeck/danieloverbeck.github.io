@@ -37,7 +37,9 @@ different industry denominations.
 <details>
   <summary markdown="span"><font color="blue">Bargaining Over Taxes</font>
     (with Eliya Lungu) <br />
-  <b> <i> Job Market Paper </i> </b> </summary>
+  <b> <i> Job Market Paper <br />
+  IGC Grant (GBP 10,000) </i> </b> 
+  </summary>
   
 This paper shows that bargaining over tax payments is an important feature of tax
 compliance and enforcement in lower income countries. Analyzing the universe of
