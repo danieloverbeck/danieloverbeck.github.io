@@ -99,6 +99,14 @@ model.
 
 <a> </a>
 
+----
+### Media & Policy:
+
+<details><summary markdown="span"><font size=2> <a href="https://www.theigc.org/blogs/how-can-informal-interactions-and-bargaining-affect-tax-compliance-and-enforcement" target="_blank"><u> How can informal interactions and bargaining affect tax compliance and enforcement? </u></a>, Tax for Growth, International Growth Center</font></summary></details> 
+
+<details><summary markdown="span"><font size=2> <a href="https://voxdev.org/topic/macroeconomics-growth/place-based-policy-india-how-special-economic-zones-promoted-structural" target="_blank"><u> Place-based policy in India: How Special Economic Zones promoted structural change and women's employment </u></a>, VoxDev column </font></summary></details> 
+
+<a> </a>
 
 
 ----
