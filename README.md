@@ -55,7 +55,7 @@ feasible bargaining outcomes. Finally, we generalize the conventional Allingham 
 ### Work in Progress:
  
   <details>
-  <summary markdown="span"><font color="blue">Carbon taxation and firm behavior in emerging economies: evidence from South Africa </font>
+  <summary markdown="span"><font color="blue">Carbon taxation and firm behavior in emerging economies: Evidence from South Africa </font>
 
   (with Johannes Gallé, Rodrigo Oliveira, Nadine Riedel and Edson Severnini)<br />
   <b> <i> UNU-WIDER grant (USD 10,000) </i> </b> </summary>
