@@ -60,16 +60,19 @@ feasible bargaining outcomes. Finally, we generalize the conventional Allingham 
   (with Johannes Gallé, Rodrigo Oliveira, Nadine Riedel and Edson Severnini)<br />
   <b> <i> UNU-WIDER grant (USD 10,000) </i> </b> </summary>
   
-This paper presents the first comprehensive analysis of how firms respond to carbon taxation
-in emerging economies. Our evidence builds on exhaustive administrative data from South
-Africa, the 13th largest emitter worldwide. The results are twofold. First, we establish
-stylized facts on the types of firms that are affected, how much revenue is generated from
-which sector, and which share of national emissions the tax is able to capture. Second, we
-study the dynamic impacts of the carbon tax on firm-level outcomes such as profits, sales,
-capital, and labor inputs. We show that the design of the South African carbon tax leads to
-substantial heterogeneity across sectors in terms of how strongly firms are affected. Contrary
-to the concern that carbon tax may hinder economic growth we measure no negative effects
-on firm performance on average.
+This paper provides the first comprehensive analysis of how firms in emerging economies
+respond to carbon taxation, leveraging detailed administrative data from South Africa –
+a potential trailblazer for other developing countries with limited state capacity amid the
+growing global push for carbon pricing. We examine the dynamic impacts of the carbon tax
+on firm-level outcomes – such as profits, sales, capital, and labor inputs – across manufac-
+turing and mining firms, which are key sectors in the context of the carbon tax. Contrary to
+concerns that carbon taxes may hinder economic growth or reduce employment, our findings
+show no evidence of negative average impacts on firm performance or jobs. However, this
+overall result masks significant heterogeneity in the tax’s effects across sectors, driven by
+the sector-specific design elements of the South African carbon tax. Firms expecting higher
+effective tax rates may have intensified their use of emission-intensive machinery and depre-
+ciated capital in anticipation of the tax. This behavior appears to stem from firms resolving
+regulatory uncertainty or seeking to recover costs from stranded assets.
 
 </details> 
 ----
