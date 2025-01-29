@@ -75,7 +75,7 @@ ciated capital in anticipation of the tax. This behavior appears to stem from fi
 regulatory uncertainty or seeking to recover costs from stranded assets.
 
 </details> 
-<a  target="_blank"><u> [available upon request </u></a> 
+<a  target="_blank"><u> [available upon request] </u></a> 
 
    <details>
   <summary markdown="span"><font color="blue">Taxing FDI in a developing economy: the case of informality</font>
@@ -87,13 +87,16 @@ model.
 </details> 
 
 </details> 
-<a  target="_blank"><u> [available upon request </u></a> 
+<a  target="_blank"><u> [available upon request] </u></a> 
   ----
 
   ### Work in Progress:
 
-  <summary markdown="span"><font color="blue">The Taxation of SMEs in Rwanda</font>  <br />
+  <summary markdown="span"><font color="blue">Does Infrastructure Finance Itself? Roads and Revenues in Rwanda</font>  <br />
   <b> <i> IGC grant (GBP 2,000) </i> </b> </summary>
+
+   <summary markdown="span"><font color="blue">VAT Refund Delays and Firm Performance in Zambia</font>  <br />
+  
   
 
   ----
