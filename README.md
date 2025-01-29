@@ -86,8 +86,10 @@ This paper introduces a new model which captures the eff ect of foreign direct i
 model.
 </details> 
 
-</details> 
+
 <a  target="_blank"><u> [available upon request] </u></a> 
+</details> 
+
   ----
 
   ### Work in Progress:
