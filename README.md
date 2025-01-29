@@ -75,7 +75,7 @@ ciated capital in anticipation of the tax. This behavior appears to stem from fi
 regulatory uncertainty or seeking to recover costs from stranded assets.
 
 </details> 
-<a [available upon request] </a> 
+<a  target="_blank"><u> [available upon request </u></a> 
 
    <details>
   <summary markdown="span"><font color="blue">Taxing FDI in a developing economy: the case of informality</font>
@@ -87,7 +87,7 @@ model.
 </details> 
 
 </details> 
-<a [available upon request] </a> 
+<a  target="_blank"><u> [available upon request </u></a> 
   ----
 
   ### Work in Progress:
