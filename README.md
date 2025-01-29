@@ -52,7 +52,7 @@ feasible bargaining outcomes. Finally, we generalize the conventional Allingham 
  <a href="https://www.theigc.org/blogs/how-can-informal-interactions-and-bargaining-affect-tax-compliance-and-enforcement" target="_blank">[IGC Blog] </a>
  
 
-### Work in Progress:
+
  
   <details>
   <summary markdown="span"><font color="blue">Carbon taxation and firm behavior in emerging economies: Evidence from South Africa </font>
@@ -75,8 +75,7 @@ ciated capital in anticipation of the tax. This behavior appears to stem from fi
 regulatory uncertainty or seeking to recover costs from stranded assets.
 
 </details> 
-----
-
+<a [available upon request] </a> 
 
    <details>
   <summary markdown="span"><font color="blue">Taxing FDI in a developing economy: the case of informality</font>
@@ -86,7 +85,12 @@ regulatory uncertainty or seeking to recover costs from stranded assets.
 This paper introduces a new model which captures the eff ect of foreign direct investment (FDI) on a developing economy with an informal sector. The informal sector evolves endogenously as economic agents choose between working and setting up a firm and whether to do so formally or informally. FDI induces a uniform increase in labor costs but heterogenous productivity increases for domestic formal firms. Accordingly, some of these fi rms may opt for informality with increased FDI. This reduction in the domestic tax base may off set any revenue gains from additional FDI. It is shown that the revenue-neutral tax rate on FDI is decreasing in the government’s efficiency in screening tax avoidance, as more efficient governments are able to attenuate the increase in informality. The empirical analysis supports the key conclusions of the
 model.
 </details> 
+
+</details> 
+<a [available upon request] </a> 
   ----
+
+  ### Work in Progress:
 
   <summary markdown="span"><font color="blue">The Taxation of SMEs in Rwanda</font>  <br />
   <b> <i> IGC grant (GBP 2,000) </i> </b> </summary>
