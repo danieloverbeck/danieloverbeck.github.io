@@ -87,7 +87,7 @@ model.
 </details> 
 
 <a  target="_blank"><u> [available upon request] </u></a> 
-
+</a> 
 
   ### Work in Progress:
 
