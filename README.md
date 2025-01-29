@@ -89,8 +89,6 @@ model.
 <a  target="_blank"><u> [available upon request] </u></a> 
 
 
-  ----
-
   ### Work in Progress:
 
   <summary markdown="span"><font color="blue">Does Infrastructure Finance Itself? Roads and Revenues in Rwanda</font>  <br />
