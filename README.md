@@ -95,7 +95,7 @@ model.
   <summary markdown="span"><font color="blue">Does Infrastructure Finance Itself? Roads and Revenues in Rwanda</font>  <br />
   <b> <i> IGC grant (GBP 2,000) </i> </b> </summary>
 
-   <summary markdown="span"><font color="blue">VAT Refund Delays and Firm Performance in Zambia</font>  
+   <summary markdown="span"><font color="blue">VAT Refund Delays and Firm Performance in Zambia</font>  </summary>
      
 ----
 ### Media & Policy:
