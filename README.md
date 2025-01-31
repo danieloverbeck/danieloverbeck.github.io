@@ -104,8 +104,6 @@ model.
 ----
 ### Upcoming Talks:
 
-<font size=2> I will present my Job Market Paper <b> <i>"Bargaining Over Taxes" </i> </b> at the following events:</font>
-
 <details><summary markdown="span"><font size=2> <a href="https://www.parisschoolofeconomics.eu/en/research/academic-activity/seminars/applied-economics-lunch-seminar/" target="_blank"><u> Paris School of Economics </u></a>, Feb 25, 2025</font></summary></details> 
 
 <details><summary markdown="span"><font size=2> <a href="https://www.cesifo.org/en/event/2025-03-19/cesifo-area-conference-public-economics-2025" target="_blank"><u> CESifo Area Conference on Public Economics </u></a>, March 19-21, 2025</font></summary></details> 
