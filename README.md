@@ -90,8 +90,7 @@ model.
 <a  target="_blank"><u> [available upon request] </u></a> 
 
 ----
-
-  ### Work in Progress:
+### Work in Progress:
 
   <summary markdown="span"><font color="blue">Does Infrastructure Finance Itself? Roads and Revenues in Rwanda</font>  <br />
   <b> <i> IGC grant (GBP 2,000) </i> </b> </summary>
@@ -102,7 +101,6 @@ model.
 
   
 ----
-
 ### Upcoming Talks:
 
 <font size=2> I will present my Job Market Paper <b> <i>"Bargaining Over Taxes" </i> </b> at the following events:</font>
