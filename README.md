@@ -96,10 +96,8 @@ model.
   <b> <i> IGC grant (GBP 2,000) </i> </b> </summary>
 
    <summary markdown="span"><font color="blue">VAT Refund Delays and Firm Performance in Zambia</font>  <br />
-  
-  
-
-  
+<a  target="_blank"><u> [available upon request] </u></a> 
+     
 ----
 ### Upcoming Talks:
 
