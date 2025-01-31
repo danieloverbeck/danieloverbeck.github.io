@@ -33,7 +33,9 @@ different industry denominations.
 <a href="https://faculti.net/place-based-policies-structural-change-and-female-labor/" target="_blank">[Video Interview with faculti.net] </a> 
 <a href="https://voxdev.org/topic/macroeconomics-growth/place-based-policy-india-how-special-economic-zones-promoted-structural" target="_blank">[VoxDev Blog] </a> 
 
+----
 ### Working Papers:
+
 <details>
   <summary markdown="span"><font color="blue">Bargaining Over Taxes</font>
     (with Eliya Lungu) <br />
@@ -87,6 +89,8 @@ model.
 </details> 
 <a  target="_blank"><u> [available upon request] </u></a> 
 
+----
+
   ### Work in Progress:
 
   <summary markdown="span"><font color="blue">Does Infrastructure Finance Itself? Roads and Revenues in Rwanda</font>  <br />
@@ -96,7 +100,9 @@ model.
   
   
 
-  ----
+  
+----
+
 ### Upcoming Talks:
 
 <font size=2> I will present my Job Market Paper <b> <i>"Bargaining Over Taxes" </i> </b> at the following events:</font>
