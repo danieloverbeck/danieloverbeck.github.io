@@ -98,6 +98,7 @@ model.
 
   ----
 ### Upcoming Talks:
+
 <font size=2> I will present my Job Market Paper <b> <i>"Bargaining Over Taxes" </i> </b> at the following events:</font>
 
 <details><summary markdown="span"><font size=2> <a  target="_blank"><u> International Monetary Fund (Tax Policy Unit) </u></a>, Feb 18, 2025</font></summary></details> 
