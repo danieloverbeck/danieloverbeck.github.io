@@ -108,7 +108,7 @@ I will present my job market paper "Bargaining Over Taxes" at the following even
 
 <details><summary markdown="span"><font size=2> <a href="" target="_blank"><u> IGC Tax for Growth Webinar </u></a>, March 3, 2025 </font></summary></details> 
 
-<details><summary markdown="span"><font size=2> <a href="https://www.cesifo.org/en/event/2025-03-19/cesifo-area-conference-public-economics-2025" target="_blank"><u> CESifo Are Conference on Public Economics </u></a>, March 19-21, 2025 </font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="https://www.cesifo.org/en/event/2025-03-19/cesifo-area-conference-public-economics-2025" target="_blank"><u> CESifo Area Conference on Public Economics </u></a>, March 19-21, 2025 </font></summary></details> 
 
 <a> </a>
 
