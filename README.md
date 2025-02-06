@@ -96,7 +96,22 @@ model.
   <b> <i> IGC grant (GBP 2,000) </i> </b> </summary>
 
    <summary markdown="span"><font color="blue">VAT Refund Delays and Firm Performance in Zambia</font>  </summary>
-     
+----
+
+### News and upcoming talks:
+
+I will present my job market paper "Bargaining Over Taxes" at the following events:
+
+<details><summary markdown="span"><font size=2> <a href="" target="_blank"><u> International Monetary Fund (Tax Policy Unit) </u></a>, February 18, 2025</font></summary></details> 
+
+<details><summary markdown="span"><font size=2> <a href="https://www.parisschoolofeconomics.eu/en/events/applied-economics-lunch/" target="_blank"><u> Paris School of Economics </u></a>, February 25, 2025 </font></summary></details> 
+
+<details><summary markdown="span"><font size=2> <a href="" target="_blank"><u> IGC Tax for Growth Webinar </u></a>, March 3, 2025 </font></summary></details> 
+
+<details><summary markdown="span"><font size=2> <a href="https://www.cesifo.org/en/event/2025-03-19/cesifo-area-conference-public-economics-2025" target="_blank"><u> CESifo Are Conference on Public Economics </u></a>, March 19-21, 2025 </font></summary></details> 
+
+<a> </a>
+
 ----
 ### Media & Policy:
 
