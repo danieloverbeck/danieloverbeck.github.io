@@ -98,9 +98,11 @@ model.
 
 ### News and upcoming talks:
 
-I will present my job market paper "Bargaining Over Taxes" at the following events:
+I will present at the following events:
 
-<details><summary markdown="span"><font size=2> <a href="https://www.cesifo.org/en/event/2025-03-19/cesifo-area-conference-public-economics-2025" target="_blank"><u> CESifo Area Conference on Public Economics </u></a>, March 19-21, 2025 </font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="https://www.zew.de/en/events-and-professional-training/detail/2025-public-finance-conference-1/4540?cHash=4346ceb24c06fb194746c733ffd27b00" target="_blank"><u> ZEW Public Finance Conference </u></a>, May 22-23, 2025 </font></summary></details> 
+
+<details><summary markdown="span"><font size=2> <a href="https://events.gwdg.de/event/970/" target="_blank"><u> German Development Economics Conference </u></a>, June 12-13, 2025 </font></summary></details> 
 
 <a> </a>
 
