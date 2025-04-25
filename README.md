@@ -100,10 +100,11 @@ model.
 
 I will present at the following events:
 
-<details><summary markdown="span"><font size=2> <a href="https://www.zew.de/en/events-and-professional-training/detail/2025-public-finance-conference-1/4540?cHash=4346ceb24c06fb194746c733ffd27b00" target="_blank"><u> ZEW Public Finance Conference </u></a>, May 22-23, 2025 </font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="https://www.zew.de/en/events-and-professional-training/detail/2025-public-finance-conference-1/4540?cHash=4346ceb24c06fb194746c733ffd27b00" target="_blank"><u> ZEW Public Finance Conference (Mannheim) </u></a>, May 22-23, 2025 </font></summary></details> 
 
-<details><summary markdown="span"><font size=2> <a href="https://events.gwdg.de/event/970/" target="_blank"><u> German Development Economics Conference </u></a>, June 12-13, 2025 </font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="https://events.gwdg.de/event/970/" target="_blank"><u> German Development Economics Conference (Frankfurt) </u></a>, June 12-13, 2025 </font></summary></details> 
 
+<details><summary markdown="span"><font size=2> <a href="" target="_blank"><u> Taxing Smarter: Evidence-based Approaches to National and Local Revenue in Zambia (Lusaka/online) </u></a>, June 19, 2025 </font></summary></details> 
 <a> </a>
 
 ----
