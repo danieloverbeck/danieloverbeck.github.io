@@ -5,7 +5,7 @@
 I am a PhD candidate in Economics at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. \
 My main research interests are in Public Economics and Development Economics. 
 
-I look forward to joining the National University of Singapore (Lee Kean Yew School of Public Policy) as Assistant Professor of Economics in August 2025.
+I look forward to joining the National University of Singapore (Lee Kuan Yew School of Public Policy) as Assistant Professor of Economics in August 2025.
 
 ### <a href="https://danieloverbeck.github.io/OverbeckCVJan.pdf" target="_blank">Curriculum Vitae</a>
 
