@@ -76,7 +76,7 @@ ciated capital in anticipation of the tax. This behavior appears to stem from fi
 regulatory uncertainty or seeking to recover costs from stranded assets.
 
 </details> 
-<a  target="_blank"><u> [available upon request] </u></a> 
+<a href="https://www.wider.unu.edu/publication/carbon-taxation-and-firm-behaviour-emerging-economies" target="_blank">[UNU_WIDER Working Paper] </a>
 
    <details>
   <summary markdown="span"><font color="blue">Taxing FDI in a developing economy: the case of informality</font>
