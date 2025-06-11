@@ -105,7 +105,7 @@ I will present at the following events:
 
 <details><summary markdown="span"><font size=2> <a href="https://events.gwdg.de/event/970/" target="_blank"><u> German Development Economics Conference (Frankfurt) </u></a>, June 12-13, 2025 </font></summary></details> 
 
-<details><summary markdown="span"><font size=2> <a href="" target="_blank"><u> Taxing Smarter: Evidence-based Approaches to National and Local Revenue in Zambia (Lusaka/online) </u></a>, June 19, 2025 </font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="https://www.theigc.org/events/taxing-smarter-evidence-zambian-tax-revenue" target="_blank"><u> Taxing Smarter: Evidence-based Approaches to National and Local Revenue in Zambia (Lusaka/online) </u></a>, June 19, 2025 </font></summary></details> 
 <a> </a>
 
 ----
