@@ -2,10 +2,8 @@
 
 ### Welcome!
 
-I am a PhD candidate in Economics at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. \
+I am an Assistant Professor of Economics (tenure-track) at the <a href="https://nus.edu.sg/" target="_blank">National University of Singapore</a> (Lee Kuan Yew School of Public Policy). I received my PhD from the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a> in June 2025. \
 My main research interests are in Public Economics and Development Economics. 
-
-I look forward to joining the <a href="" target="_blank">National University of Singapore</a> (Lee Kuan Yew School of Public Policy) as Assistant Professor of Economics in August 2025.
 
 ### <a href="https://danieloverbeck.github.io/OverbeckCVJan.pdf" target="_blank">Curriculum Vitae</a>
 
@@ -99,7 +97,7 @@ model.
 
 ### News and upcoming talks:
 
-I will present at the following events:
+I recently presented at the following events:
 
 <details><summary markdown="span"><font size=2> <a href="https://www.zew.de/en/events-and-professional-training/detail/2025-public-finance-conference-1/4540?cHash=4346ceb24c06fb194746c733ffd27b00" target="_blank"><u> ZEW Public Finance Conference (Mannheim) </u></a>, May 22-23, 2025 </font></summary></details> 
 
