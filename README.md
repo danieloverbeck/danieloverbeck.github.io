@@ -49,6 +49,7 @@ feasible bargaining outcomes. Finally, we generalize the conventional Allingham 
   </details>
  <a href="https://danieloverbeck.github.io/JMP_Overbeck_Bargaining_Over_Taxes.pdf" target="_blank">[Download] </a> 
  <a href="https://www.theigc.org/blogs/how-can-informal-interactions-and-bargaining-affect-tax-compliance-and-enforcement" target="_blank">[IGC Blog] </a>
+ <a href="https://www.theigc.org/publications/how-do-small-firms-respond-turnover-taxes" target="_blank">[Policy Brief] </a>
  
 
 
