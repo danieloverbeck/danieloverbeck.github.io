@@ -48,6 +48,7 @@ feasible bargaining outcomes. Finally, we generalize the conventional Allingham 
  
   </details>
  <a href="https://danieloverbeck.github.io/JMP_Overbeck_Bargaining_Over_Taxes.pdf" target="_blank">[Download] </a> 
+  <a href="https://www.ifo.de/DocDL/cesifo1_wp12172.pdf" target="_blank">[CESifo Working Paper] </a> 
  <a href="https://www.theigc.org/blogs/how-can-informal-interactions-and-bargaining-affect-tax-compliance-and-enforcement" target="_blank">[IGC Blog] </a>
  <a href="https://www.theigc.org/publications/how-do-small-firms-respond-turnover-taxes" target="_blank">[Policy Brief] </a>
  
@@ -60,22 +61,19 @@ feasible bargaining outcomes. Finally, we generalize the conventional Allingham 
   (with Johannes Gallé, Rodrigo Oliveira, Nadine Riedel and Edson Severnini)<br />
   <b> <i> UNU-WIDER grant (USD 10,000) </i> </b> </summary>
   
-This paper provides the first comprehensive analysis of how firms in emerging economies
-respond to carbon taxation, leveraging detailed administrative data from South Africa –
-a potential trailblazer for other developing countries with limited state capacity amid the
-growing global push for carbon pricing. We examine the dynamic impacts of the carbon tax
-on firm-level outcomes – such as profits, sales, capital, and labor inputs – across manufac-
-turing and mining firms, which are key sectors in the context of the carbon tax. Contrary to
-concerns that carbon taxes may hinder economic growth or reduce employment, our findings
-show no evidence of negative average impacts on firm performance or jobs. However, this
-overall result masks significant heterogeneity in the tax’s effects across sectors, driven by
-the sector-specific design elements of the South African carbon tax. Firms expecting higher
-effective tax rates may have intensified their use of emission-intensive machinery and depre-
-ciated capital in anticipation of the tax. This behavior appears to stem from firms resolving
-regulatory uncertainty or seeking to recover costs from stranded assets.
+This paper provides the first comprehensive evidence on how firms in emerging economies respond
+to carbon taxation. Using detailed administrative data, we study the announcement and 
+implementation of South Africa’s 2019 carbon tax—a potential trailblazer for other developing 
+countries with limited state capacity amid the global expansion of carbon pricing. Contrary to 
+concerns that carbon taxes might hinder growth or employment, we find no negative effects on firm 
+performance or jobs. Firms facing higher effective tax rates increased activity following the tax’s 
+announcement, four years before implementation, likely reflecting the resolution of regulatory 
+uncertainty and efforts to mitigate stranded asset costs. While we find no measurable reduction in 
+emissions — likely due to this anticipatory behavior—our results suggest that carbon taxation can be 
+implemented without harming economic outcomes, even in the short term and in low- and middle-income settings.
 
 </details> 
-<a href="https://www.wider.unu.edu/publication/carbon-taxation-and-firm-behaviour-emerging-economies" target="_blank">[UNU_WIDER Working Paper] </a>
+<a href="https://www.nber.org/papers/w34406" target="_blank">[NBER Working Paper] </a>
 
    <details>
   <summary markdown="span"><font color="blue">Taxing FDI in a developing economy: the case of informality</font>
