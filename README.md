@@ -98,7 +98,7 @@ model.
 
 I will present at the following events:
 
-<details><summary markdown="span"><font size=2> <a href="" target="_blank"><u> Monash Univeristy KL Campus </u></a>, April 10, 2026 </font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="" target="_blank"><u> Monash University KL Campus </u></a>, April 10, 2026 </font></summary></details> 
 
 <details><summary markdown="span"><font size=2> <a href="https://www.ifo.de/en/cesifo/event/2026-04-15/cesifo-area-conference-public-economics-2026" target="_blank"><u> CESifo Area Conference on Public Economics (Munich) </u></a>, April 15-17, 2026 </font></summary></details> 
 
