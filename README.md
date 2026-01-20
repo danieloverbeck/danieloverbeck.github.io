@@ -96,13 +96,13 @@ model.
 
 ### News and upcoming talks:
 
-I recently presented at the following events:
+I will present at the following events:
 
-<details><summary markdown="span"><font size=2> <a href="https://www.zew.de/en/events-and-professional-training/detail/2025-public-finance-conference-1/4540?cHash=4346ceb24c06fb194746c733ffd27b00" target="_blank"><u> ZEW Public Finance Conference (Mannheim) </u></a>, May 22-23, 2025 </font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="" target="_blank"><u> Monash Univeristy KL Campus </u></a>, April 10, 2026 </font></summary></details> 
 
-<details><summary markdown="span"><font size=2> <a href="https://events.gwdg.de/event/970/" target="_blank"><u> German Development Economics Conference (Frankfurt) </u></a>, June 12-13, 2025 </font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="https://www.ifo.de/en/cesifo/event/2026-04-15/cesifo-area-conference-public-economics-2026" target="_blank"><u> CESifo Area Conference on Public Economics (Munich) </u></a>, April 15-17, 2026 </font></summary></details> 
 
-<details><summary markdown="span"><font size=2> <a href="https://www.theigc.org/events/taxing-smarter-evidence-zambian-tax-revenue" target="_blank"><u> Taxing Smarter: Evidence-based Approaches to National and Local Revenue in Zambia (Lusaka/online) </u></a>, June 19, 2025 </font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="https://wiwi.uni-mainz.de/faculty-seminar/" target="_blank"><u> University of Mainz </u></a>, July 6, 2026 </font></summary></details> 
 <a> </a>
 
 ----
