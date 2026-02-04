@@ -116,7 +116,13 @@ I will present at the following events:
 
 <a> </a>
 
+----
+### Other publications:
 
+<details><summary markdown="span"><font size=2> <a href="https://www.wider.unu.edu/publication/zambia-revenue-authority-vat-panel" target="_blank"><u> Technical Note: The Zambia Revenue Authority VAT panel </u></a>, UNU-WIDER Technical Note 1/2026</font></summary></details> 
+
+
+<a> </a>
 ----
 
   ----
