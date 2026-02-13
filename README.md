@@ -92,7 +92,7 @@ the additional revenues are unable to finance the initial investments of the cen
 government, they present a doubling of local municipalities’ revenues after 6 years.
 
 </details> 
-<a href="" target="(https://danieloverbeck.github.io/Musonera_Nsabimana_Overbeck_Feb_2026.pdf)"target="_blank">[Download] </a>
+<a href="(https://danieloverbeck.github.io/Musonera_Nsabimana_Overbeck_Feb_2026.pdf)" target="_blank">[Download] </a>
 
 
 
