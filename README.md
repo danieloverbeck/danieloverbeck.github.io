@@ -75,6 +75,27 @@ implemented without harming economic outcomes, even in the short term and in low
 </details> 
 <a href="https://www.nber.org/papers/w34406" target="_blank">[NBER Working Paper] </a>
 
+
+ <details>
+  <summary markdown="span"><font color="blue">Infrastructure and Fiscal Capacity </font>
+
+  (with Abdou Musonera and Aimable Nsabimana)<br />
+  <b> <i> </i> </b> </summary>
+  
+This paper shows that infrastructure investments enhance fiscal capacity. Drawing
+on a novel dataset combining information on the location and timing of all road
+upgrades in Rwanda with a decade of administrative tax and census records, we
+estimate significant and sizable positive effects of road upgrades on surrounding
+municipalities’ tax revenues. These effects are driven by firm entry as well as land
+value appreciation, captured through taxes on rental income at the local level. While
+the additional revenues are unable to finance the initial investments of the central
+government, they present a doubling of local municipalities’ revenues after 6 years.
+
+</details> 
+<a href="" target="_blank">[Download] </a>
+
+
+
    <details>
   <summary markdown="span"><font color="blue">Taxing FDI in a developing economy: the case of informality</font>
 <br />
@@ -87,9 +108,6 @@ model.
 
 ----
 ### Work in Progress:
-
-  <summary markdown="span"><font color="blue">Does Infrastructure Finance Itself? Roads and Revenues in Rwanda</font>  <br />
-  <b> <i> IGC grant (GBP 2,000) </i> </b> </summary>
 
    <summary markdown="span"><font color="blue">VAT Refund Delays and Firm Performance in Zambia</font>  </summary>
 ----
