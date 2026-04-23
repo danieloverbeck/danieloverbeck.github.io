@@ -76,7 +76,7 @@ implemented without harming economic outcomes, even in the short term and in low
 
 
  <details>
-  <summary markdown="span"><font color="blue">Infrastructure and Fiscal Capacity </font>
+  <summary markdown="span"><font color="blue"> The (fiscal) Dividend of Infrastructure: Roads and Revenues in Rwanda </font>
 
   (with Abdou Musonera and Aimable Nsabimana)<br />
   <b> <i> </i> </b> </summary>
@@ -91,7 +91,7 @@ the additional revenues are unable to finance the initial investments of the cen
 government, they present a doubling of local municipalities’ revenues after 6 years.
 
 </details> 
-<a href="https://danieloverbeck.github.io/Musonera_Nsabimana_Overbeck_Feb_2026.pdf" target="_blank">[Download] </a>
+<a href="" target="_blank">[coming soon] </a>
 
 
 
