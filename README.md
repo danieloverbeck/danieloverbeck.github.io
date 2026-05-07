@@ -37,7 +37,6 @@ different industry denominations.
   <summary markdown="span"><font color="blue"> The (fiscal) Dividend of Infrastructure: Roads and Revenues in Rwanda </font>
 
   (with Abdou Musonera and <a href="https://sites.google.com/view/ansabimana" target="_blank"> Aimable Nsabimana </a>)<br />
-  <b> <i> </i> </b> </summary>
   <b> <font color="red"> <i>Journal of Public Economics, cond. accepted </i>  </summary>
   
 This paper shows that infrastructure investments enhance local tax outcomes. Drawing on a novel dataset combining information on the location and timing of all road
