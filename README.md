@@ -112,10 +112,6 @@ model.
 
 I will present at the following events:
 
-<details><summary markdown="span"><font size=2> <a href="" target="_blank"><u> Monash University Malaysia (Kuala Lumpur) </u></a>, April 10, 2026 </font></summary></details> 
-
-<details><summary markdown="span"><font size=2> <a href="https://www.ifo.de/en/cesifo/event/2026-04-15/cesifo-area-conference-public-economics-2026" target="_blank"><u> CESifo Area Conference on Public Economics (Munich) </u></a>, April 15-17, 2026 </font></summary></details> 
-
 <details><summary markdown="span"><font size=2> <a href="https://wiwi.uni-mainz.de/faculty-seminar/" target="_blank"><u> University of Mainz </u></a>, July 6, 2026 </font></summary></details> 
 <a> </a>
 
