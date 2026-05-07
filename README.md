@@ -33,6 +33,22 @@ different industry denominations.
 ----
 ### Working Papers:
 
+ <details>
+  <summary markdown="span"><font color="blue"> The (fiscal) Dividend of Infrastructure: Roads and Revenues in Rwanda </font>
+
+  (with Abdou Musonera and <a href="https://sites.google.com/view/ansabimana" target="_blank"> Aimable Nsabimana </a>)<br />
+  <b> <i> </i> </b> </summary>
+  <b> <font color="red"> <i>Journal of Public Economics, cond. accepted </i>  </summary>
+  
+This paper shows that infrastructure investments enhance local tax outcomes. Drawing on a novel dataset combining information on the location and timing of all road
+upgrades in Rwanda with a decade of administrative tax and census records, we estimate large and significant increases in tax revenues in municipalities near to
+upgraded roads. These effects are driven by firm entry as well as land value appreciation, captured through taxes on rental income at the local level. Finally, we show that while the additional revenues do not fully recover the central government’s
+initial investment, local municipalities’ revenues more than double within five years.
+
+</details> 
+<a href="https://danieloverbeck.github.io/Submission_MNO_2026.pdf" target="_blank">[Download] </a>
+
+
 <details>
   <summary markdown="span"><font color="blue">Bargaining Over Taxes</font>
     (with Eliya Lungu) <br />
@@ -51,8 +67,6 @@ feasible bargaining outcomes. Finally, we generalize the conventional Allingham 
  <a href="https://www.theigc.org/blogs/how-can-informal-interactions-and-bargaining-affect-tax-compliance-and-enforcement" target="_blank">[IGC Blog] </a>
  <a href="https://www.theigc.org/publications/how-do-small-firms-respond-turnover-taxes" target="_blank">[Policy Brief] </a>
  
-
-
  
   <details>
   <summary markdown="span"><font color="blue">Carbon taxation and firm behavior in emerging economies: Evidence from South Africa </font>
@@ -75,23 +89,7 @@ implemented without harming economic outcomes, even in the short term and in low
 <a href="https://www.nber.org/papers/w34406" target="_blank">[NBER Working Paper] </a>
 
 
- <details>
-  <summary markdown="span"><font color="blue"> The (fiscal) Dividend of Infrastructure: Roads and Revenues in Rwanda </font>
 
-  (with Abdou Musonera and Aimable Nsabimana)<br />
-  <b> <i> </i> </b> </summary>
-  
-This paper shows that infrastructure investments enhance fiscal capacity. Drawing
-on a novel dataset combining information on the location and timing of all road
-upgrades in Rwanda with a decade of administrative tax and census records, we
-estimate significant and sizable positive effects of road upgrades on surrounding
-municipalities’ tax revenues. These effects are driven by firm entry as well as land
-value appreciation, captured through taxes on rental income at the local level. While
-the additional revenues are unable to finance the initial investments of the central
-government, they present a doubling of local municipalities’ revenues after 6 years.
-
-</details> 
-<a href="" target="_blank">[coming soon] </a>
 
 
 
@@ -100,7 +98,7 @@ government, they present a doubling of local municipalities’ revenues after 6 
 <br />
  </summary>
   
-This paper introduces a new model which captures the eff ect of foreign direct investment (FDI) on a developing economy with an informal sector. The informal sector evolves endogenously as economic agents choose between working and setting up a firm and whether to do so formally or informally. FDI induces a uniform increase in labor costs but heterogenous productivity increases for domestic formal firms. Accordingly, some of these fi rms may opt for informality with increased FDI. This reduction in the domestic tax base may off set any revenue gains from additional FDI. It is shown that the revenue-neutral tax rate on FDI is decreasing in the government’s efficiency in screening tax avoidance, as more efficient governments are able to attenuate the increase in informality. The empirical analysis supports the key conclusions of the
+This paper introduces a new model which captures the effect of foreign direct investment (FDI) on a developing economy with an informal sector. The informal sector evolves endogenously as economic agents choose between working and setting up a firm and whether to do so formally or informally. FDI induces a uniform increase in labor costs but heterogenous productivity increases for domestic formal firms. Accordingly, some of these fi rms may opt for informality with increased FDI. This reduction in the domestic tax base may off set any revenue gains from additional FDI. It is shown that the revenue-neutral tax rate on FDI is decreasing in the government’s efficiency in screening tax avoidance, as more efficient governments are able to attenuate the increase in informality. The empirical analysis supports the key conclusions of the
 model.
 </details> 
 <a  target="_blank"><u> [available upon request] </u></a> 
