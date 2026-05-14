@@ -10,6 +10,20 @@ My main research interests are in Public Economics and Development Economics.
 ----
 ### Publications:
 
+ <details>
+  <summary markdown="span"><font color="blue"> The (fiscal) Dividend of Infrastructure: Roads and Revenues in Rwanda </font>
+
+  (with Abdou Musonera and <a href="https://sites.google.com/view/ansabimana" target="_blank"> Aimable Nsabimana </a>)<br />
+  <b> <font color="red"> <i>Journal of Public Economics, forthcoming </i>  </summary>
+  
+This paper shows that infrastructure investments enhance local tax outcomes. Drawing on a novel dataset combining information on the location and timing of all road
+upgrades in Rwanda with 12 years of administrative tax and census records, we estimate large and significant increases in tax revenues in municipalities near to
+upgraded roads. These effects are driven by firm entry as well as land value appreciation, captured through taxes on rental income at the local level. Finally, we show that while the additional revenues do not fully recover the central government’s
+initial investment, local municipalities’ revenues more than double within five years.
+
+</details> 
+<a href="https://danieloverbeck.github.io/Submission_MNO_2026.pdf" target="_blank">[Download] </a>
+
 
 <details>
   <summary markdown="span"><font color="blue">Place-based policies, structural change and female labor: Evidence from India's Special Economic Zones</font>
@@ -32,21 +46,6 @@ different industry denominations.
 
 ----
 ### Working Papers:
-
- <details>
-  <summary markdown="span"><font color="blue"> The (fiscal) Dividend of Infrastructure: Roads and Revenues in Rwanda </font>
-
-  (with Abdou Musonera and <a href="https://sites.google.com/view/ansabimana" target="_blank"> Aimable Nsabimana </a>)<br />
-  <b> <font color="red"> <i>Journal of Public Economics, cond. accepted </i>  </summary>
-  
-This paper shows that infrastructure investments enhance local tax outcomes. Drawing on a novel dataset combining information on the location and timing of all road
-upgrades in Rwanda with a decade of administrative tax and census records, we estimate large and significant increases in tax revenues in municipalities near to
-upgraded roads. These effects are driven by firm entry as well as land value appreciation, captured through taxes on rental income at the local level. Finally, we show that while the additional revenues do not fully recover the central government’s
-initial investment, local municipalities’ revenues more than double within five years.
-
-</details> 
-<a href="https://danieloverbeck.github.io/Submission_MNO_2026.pdf" target="_blank">[Download] </a>
-
 
 <details>
   <summary markdown="span"><font color="blue">Bargaining Over Taxes</font>
