@@ -14,7 +14,7 @@ My main research interests are in Public Economics and Development Economics.
   <summary markdown="span"><font color="blue"> The (fiscal) Dividend of Infrastructure: Roads and Revenues in Rwanda </font>
 
   (with Abdou Musonera and <a href="https://sites.google.com/view/ansabimana" target="_blank"> Aimable Nsabimana </a>)<br />
-  <b> <font color="red"> <i>Journal of Public Economics, forthcoming </i>  </summary>
+  <b> <font color="red"> <i>Journal of Public Economics, 2026 </i>  </summary>
   
 This paper shows that infrastructure investments enhance local tax outcomes. Drawing on a novel dataset combining information on the location and timing of all road
 upgrades in Rwanda with 12 years of administrative tax and census records, we estimate large and significant increases in tax revenues in municipalities near to
@@ -22,7 +22,8 @@ upgraded roads. These effects are driven by firm entry as well as land value app
 initial investment, local municipalities’ revenues more than double within five years.
 
 </details> 
-<a href="https://danieloverbeck.github.io/Submission_MNO_2026.pdf" target="_blank">[Download] </a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S004727272600112X" target="_blank">[Open Access JPubE] </a>
+ <a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099535006012615930" target="_blank">[World Bank Policy Research Working Paper] </a> 
 
 
 <details>
