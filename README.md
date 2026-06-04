@@ -116,6 +116,7 @@ I will present at the following events:
 <details><summary markdown="span"><font size=2> <a href="https://wiwi.uni-mainz.de/faculty-seminar/" target="_blank"><u> University of Mainz </u></a>, July 6, 2026 </font></summary></details> 
 <details><summary markdown="span"><font size=2> <a href="https://www.rsit-uni-tuebingen.de/home/brown-bag-seminar/" target="_blank"><u> University of Tuebingen </u></a>, July 14, 2026 </font></summary></details> 
 <details><summary markdown="span"><font size=2> <a href="" target="_blank"><u> National Taiwan University </u></a>, October 22, 2026 </font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="" target="_blank"><u> Peking University </u></a>, March 30, 2027 </font></summary></details> 
 <a> </a>
 
 ----
