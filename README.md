@@ -105,7 +105,7 @@ model.
 ----
 ### Work in Progress:
 
-     <details>
+<details>
   <summary markdown="span"><font color="blue">Tax Administration and Firm Performance: Evidence from VAT Refund Delays</font>
 <br />
  </summary>
