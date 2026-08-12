@@ -112,10 +112,9 @@ model.
 
 I will present at the following events:
 
-<details><summary markdown="span"><font size=2> <a href="" target="_blank"><u> Goethe University Frankfurt </u></a>, June 30, 2026 </font></summary></details> 
-<details><summary markdown="span"><font size=2> <a href="https://wiwi.uni-mainz.de/faculty-seminar/" target="_blank"><u> University of Mainz </u></a>, July 6, 2026 </font></summary></details> 
-<details><summary markdown="span"><font size=2> <a href="https://www.rsit-uni-tuebingen.de/home/brown-bag-seminar/" target="_blank"><u> University of Tuebingen </u></a>, July 14, 2026 </font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="https://jobsanddevelopmentconference.org/about/" target="_blank"><u> Jobs and Development Conference (Hong Kong) </u></a>, July 14, 2026 </font></summary></details> 
 <details><summary markdown="span"><font size=2> <a href="" target="_blank"><u> National Taiwan University </u></a>, October 22, 2026 </font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="https://ntanet.org/2026/02/119th-annual-conference-registration-information/" target="_blank"><u> National Tax Association Annual Conference (Pittsburgh, USA) </u></a>, July 14, 2026 </font></summary></details> 
 <details><summary markdown="span"><font size=2> <a href="" target="_blank"><u> Peking University </u></a>, March 30, 2027 </font></summary></details> 
 <a> </a>
 
