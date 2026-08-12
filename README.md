@@ -54,11 +54,7 @@ different industry denominations.
   <b> <i>  IGC grant (GBP 10,000) </i> </b> 
   </summary>
   
-This paper shows that bargaining over tax payments is an important feature of tax
-compliance and enforcement in lower income countries. Analyzing the universe of
-administrative tax filings from Zambia, we document sharp bunching in (i) dominated regions above tax schedule discontinuities, inconsistent with standard models of tax compliance and (ii) at round number tax payments, implying that certain payments are being targeted. Additional evidence from our own survey suggests
-that discussing tax payments with tax officials before filing taxes is widespread, consistent with tax payments being the outcomes of bargaining. Such bargaining over taxes is consistent with fact (ii), as bargaining outcomes are often round and salient numbers, and with fact (i), because tax schedule discontinuities restrict the set of
-feasible bargaining outcomes. Finally, we generalize the conventional Allingham & Sandmo (1972) model to allow for bargaining as a mode of tax compliance. We show that bargaining leads to Pareto-improvements for both taxpayers and the state as long as state capacity is sufficiently low.
+We show that bargaining over taxes constitutes a central feature of tax compliance in low state capacity environments. Using administrative records from Zambia, we document systematic deviations from predictions of standard models of tax compliance. Taxpayers bunch sharply in dominated regions above tax schedule discontinuities and at round-number payments. These patterns are inconsistent with standard models, but can be explained by bargaining between tax collectors and taxpayers, or which we provide additional evidence from our own taxpayer survey. Finally, we show that allowing for bargaining in standard models of tax compliance leads to Pareto-improvements if state capacity is sufficiently low.
  
   </details>
  <a href="https://danieloverbeck.github.io/JMP_Overbeck_Bargaining_Over_Taxes.pdf" target="_blank">[Download] </a> 
@@ -73,16 +69,7 @@ feasible bargaining outcomes. Finally, we generalize the conventional Allingham 
   (with Johannes Gallé, Rodrigo Oliveira, Nadine Riedel and Edson Severnini)<br />
   <b> <i> UNU-WIDER grant (USD 10,000) </i> </b> </summary>
   
-This paper provides the first comprehensive evidence on how firms in emerging economies respond
-to carbon taxation. Using detailed administrative data, we study the announcement and 
-implementation of South Africa’s 2019 carbon tax—a potential trailblazer for other developing 
-countries with limited state capacity amid the global expansion of carbon pricing. Contrary to 
-concerns that carbon taxes might hinder growth or employment, we find no negative effects on firm 
-performance or jobs. Firms facing higher effective tax rates increased activity following the tax’s 
-announcement, four years before implementation, likely reflecting the resolution of regulatory 
-uncertainty and efforts to mitigate stranded asset costs. While we find no measurable reduction in 
-emissions — likely due to this anticipatory behavior—our results suggest that carbon taxation can be 
-implemented without harming economic outcomes, even in the short term and in low- and middle-income settings.
+This paper provides the first comprehensive evidence on how firms in an emerging economy respond to carbon taxation in the context of an early-phase policy, highlighting how firms adjust when incentives are modest but signals about future regulation are strong. We study the announcement and early implementation of South Africa's 2019 carbon tax using detailed administrative firm-level data from 2011-2021. Employing a matched difference-in-differences design and event-study models, we trace dynamic firm responses. Contrary to concerns that carbon taxes might hinder growth or employment, we find no negative effects on firm performance or jobs. Leveraging variation in firms' exposure to the tax through temporary tax-free allowances, we find that firms facing higher \textit{effective} tax rates increased sales, employment, capital, and capital depreciation in anticipation of the policy, reflecting resolution of regulatory uncertainty and adjustments to mitigate stranded asset risks. While we detect no measurable reduction in emissions - likely due to anticipatory behavior - the results show that early-phase carbon pricing can shape firm behavior without harming economic outcomes, even in low- and middle-income settings.
 
 </details> 
 <a href="https://www.nber.org/papers/w34406" target="_blank">[NBER Working Paper] </a>
