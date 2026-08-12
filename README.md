@@ -112,6 +112,7 @@ model.
   
 This paper shows how weak tax administration leads to economic costs for firms in developing countries. We study the case of VAT refund processing in Zambia, where, as we document in a novel dataset, firms wait 700 days for reimbursement on average. Linking our dataset to the universe of tax returns at the firm level, we establish several stylized facts on the pitfalls of refund processing and estimate the economic costs of refund delays for firms. To do so, we rely on an instrumental-variable approach which exploits plausibly exogenous variation in administrative congestion at the time of claiming. The results show that prolonged refund delays significantly reduce firms’ sales, taxable purchases, profits, investment, and employment, consistent with firms facing binding working-capital constraints while awaiting reimbursement. These findings suggest that the effectiveness of tax systems depends not only on statutory design but also on the capacity of tax administrations to implement them
 </details> 
+<a  target="_blank"><u> [available upon request] </u></a> 
 ----
 
 ### News and upcoming talks:
