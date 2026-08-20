@@ -24,6 +24,7 @@ initial investment, local municipalities’ revenues more than double within fiv
 </details> 
   <a href="https://www.sciencedirect.com/science/article/pii/S004727272600112X" target="_blank">[Open Access JPubE] </a>
  <a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099535006012615930" target="_blank">[World Bank Policy Research Working Paper] </a> 
+ <a href="https://voxdev.org/topic/infrastructure/do-paved-roads-pay-themselves-evidence-rwanda" target="_blank">[VoxDev Article] </a>
 
 
 <details>
@@ -43,7 +44,7 @@ different industry denominations.
   <a href="https://www.sciencedirect.com/science/article/pii/S0047272724001956" target="_blank">[Open Access JPubE] </a>
  <a href="https://steg.cepr.org/publications/place-based-policies-structural-change-and-female-labor-evidence-indias-special" target="_blank">[STEG/CEPR Working Paper] </a> 
 <a href="https://faculti.net/place-based-policies-structural-change-and-female-labor/" target="_blank">[Video Interview with faculti.net] </a> 
-<a href="https://voxdev.org/topic/macroeconomics-growth/place-based-policy-india-how-special-economic-zones-promoted-structural" target="_blank">[VoxDev Blog] </a> 
+<a href="https://voxdev.org/topic/macroeconomics-growth/place-based-policy-india-how-special-economic-zones-promoted-structural" target="_blank">[VoxDev Article] </a> 
 
 ----
 ### Working Papers:
@@ -115,11 +116,13 @@ I will present at the following events:
 ----
 ### Media & Policy:
 
+<details><summary markdown="span"><font size=2> <a href="https://voxdev.org/topic/infrastructure/do-paved-roads-pay-themselves-evidence-rwanda" target="_blank"><u> Article: Do paved roads pay for themselves? Evidence from Rwanda  </u></a>, VoxDev column</font></summary></details> 
+
 <details><summary markdown="span"><font size=2> <a href="https://www.theigc.org/publications/how-do-small-firms-respond-turnover-taxes" target="_blank"><u> Policy Brief: How do small firms respond to turnover taxes? </u></a>, International Growth Center</font></summary></details> 
 
 <details><summary markdown="span"><font size=2> <a href="https://www.theigc.org/blogs/how-can-informal-interactions-and-bargaining-affect-tax-compliance-and-enforcement" target="_blank"><u> Blog: How can informal interactions and bargaining affect tax compliance and enforcement? </u></a>, International Growth Center </font></summary></details> 
 
-<details><summary markdown="span"><font size=2> <a href="https://voxdev.org/topic/macroeconomics-growth/place-based-policy-india-how-special-economic-zones-promoted-structural" target="_blank"><u> Blog: Place-based policy in India: How Special Economic Zones promoted structural change and women's employment </u></a>, VoxDev column </font></summary></details> 
+<details><summary markdown="span"><font size=2> <a href="https://voxdev.org/topic/macroeconomics-growth/place-based-policy-india-how-special-economic-zones-promoted-structural" target="_blank"><u> Article: Place-based policy in India: How Special Economic Zones promoted structural change and women's employment </u></a>, VoxDev column </font></summary></details> 
 
 <a> </a>
 
