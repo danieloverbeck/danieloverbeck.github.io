@@ -75,12 +75,21 @@ This paper provides the first comprehensive evidence on how firms in an emerging
 </details> 
 <a href="https://www.nber.org/papers/w34406" target="_blank">[NBER Working Paper] </a>
 
+<details>
+  <summary markdown="span"><font color="blue">Tax Administration and Firm Performance: Evidence from VAT Refund Delays</font>
+(with Kwabena Adu-Ababio and Eliya Lungu)<br />
+ </summary>
+  
+This paper shows how weak tax administration leads to economic costs for firms in developing countries. We study the case of VAT refund processing in Zambia, where, as we document in a novel dataset, firms wait 700 days for reimbursement on average. Linking our dataset to the universe of tax returns at the firm level, we establish several stylized facts on the pitfalls of refund processing and estimate the economic costs of refund delays for firms. To do so, we rely on an instrumental-variable approach which exploits plausibly exogenous variation in administrative congestion at the time of claiming. The results show that prolonged refund delays significantly reduce firms’ sales, taxable purchases, profits, investment, and employment, consistent with firms facing binding working-capital constraints while awaiting reimbursement. These findings suggest that the effectiveness of tax systems depends not only on statutory design but also on the capacity of tax administrations to implement them
+</details> 
+ <a href="https://danieloverbeck.github.io/VATRefundsZambia2026.pdf" target="_blank">[Download] </a> 
+  <a href="https://www.wider.unu.edu/publication/tax-administration-and-firm-performance" target="_blank">[UNU-WIDER Working Paper] </a> 
 
 
 
-
-
-   <details>
+----
+### Work in Progress:
+ <details>
   <summary markdown="span"><font color="blue">Taxing FDI in a developing economy: the case of informality</font>
 <br />
  </summary>
@@ -90,17 +99,6 @@ model.
 </details> 
 <a  target="_blank"><u> [available upon request] </u></a> 
 
-----
-### Work in Progress:
-
-<details>
-  <summary markdown="span"><font color="blue">Tax Administration and Firm Performance: Evidence from VAT Refund Delays</font>
-<br />
- </summary>
-  
-This paper shows how weak tax administration leads to economic costs for firms in developing countries. We study the case of VAT refund processing in Zambia, where, as we document in a novel dataset, firms wait 700 days for reimbursement on average. Linking our dataset to the universe of tax returns at the firm level, we establish several stylized facts on the pitfalls of refund processing and estimate the economic costs of refund delays for firms. To do so, we rely on an instrumental-variable approach which exploits plausibly exogenous variation in administrative congestion at the time of claiming. The results show that prolonged refund delays significantly reduce firms’ sales, taxable purchases, profits, investment, and employment, consistent with firms facing binding working-capital constraints while awaiting reimbursement. These findings suggest that the effectiveness of tax systems depends not only on statutory design but also on the capacity of tax administrations to implement them
-</details> 
-<a  target="_blank"><u> [available upon request] </u></a> 
 ----
 
 ### News and upcoming talks:
